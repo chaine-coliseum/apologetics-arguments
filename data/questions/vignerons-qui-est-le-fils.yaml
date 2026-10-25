@@ -1,0 +1,23 @@
+id: vignerons-qui-est-le-fils
+question: Dans la parabole, qui est le fils, distinct des serviteurs, et admets-tu qu’il est tué ?
+adressee_a: islam
+objectif: Faire admettre la mise à mort du fils, que nie le Coran.
+themes:
+  - muhammad-dans-la-bible
+  - crucifixion
+arguments:
+  - parabole-vignerons-fils-tue
+passages:
+  - matthieu-21-37-43
+statut: ebauche
+origine:
+  - PUBLIC/La Parabole des vignerons.pdf
+reponses_possibles:
+  - reponse: Le fils est Jésus, mais il n’a pas été tué.
+    relance: "Alors la condition du transfert de la vigne (v. 40 : « que fera-t-il donc ») n’est pas remplie, et la parabole n’annonce pas l’islam."
+    arguments:
+      - parabole-vignerons-fils-tue
+  - reponse: Le fils est Jésus, et il a été tué.
+    relance: Alors tu contredis Coran 4,157.
+    arguments:
+      - dilemme-de-la-crucifixion

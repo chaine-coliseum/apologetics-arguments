@@ -1,0 +1,16 @@
+id: coran-10-94-interroger
+question: Coran 10,94 dit à Muhammad d’interroger « ceux qui lisent le Livre » s’il doute. Pourquoi le renvoyer à un livre falsifié ?
+adressee_a: islam
+objectif: Retourner le taḥrîf avec le Coran.
+themes:
+  - falsification-de-la-bible
+arguments:
+  - coran-confirme-la-bible
+passages:
+  - coran-10-94
+statut: ebauche
+reponses_possibles:
+  - reponse: Le verset vise les Juifs et chrétiens qui ont gardé la vérité.
+    relance: Alors le Livre qu’ils lisaient au VIIᵉ siècle était fiable. Montre-moi en quoi il diffère des manuscrits que nous avons d’avant cette époque.
+    arguments:
+      - coran-confirme-la-bible

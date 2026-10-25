@@ -1,0 +1,24 @@
+id: paraclet-a-qui-jesus-lave-les-pieds
+question: "À qui Jésus a-t-il lavé les pieds : aux apôtres ou à la communauté de Muhammad ?"
+adressee_a: islam
+objectif: Ancrer le « vous » du discours d’adieu dans son récit (Jn 13,5-12).
+themes:
+  - paraclet
+arguments:
+  - paraclet-recu-par-les-apotres
+  - reponse-vous-communautaire
+statut: ebauche
+origine:
+  - PUBLIC/Le Paraclet.pdf
+  - PUBLIC/Le Paraclet Débat.pdf
+passages:
+  - jean-13-12
+reponses_possibles:
+  - reponse: Aux apôtres, mais la promesse vise toute la communauté future.
+    relance: Quelles phrases de Jn 13 à 16 visent les apôtres et lesquelles la communauté future ? Selon quel critère textuel ? Et si l’on remplace « vous » par « les musulmans » partout, le texte a-t-il encore un sens ?
+    arguments:
+      - reponse-vous-communautaire
+  - reponse: Comme Joseph, Jésus parle à des générations futures.
+    relance: "Ex 13,19 précise que la demande de Joseph s’accomplit. De la même manière, Ac 2,33 précise que la promesse du Paraclet s’accomplit sur les apôtres : « il l’a répandu ». Pourquoi accepter l’une et pas l’autre ?"
+    arguments:
+      - reponse-vous-communautaire

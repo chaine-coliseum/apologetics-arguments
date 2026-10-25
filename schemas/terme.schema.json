@@ -1,0 +1,15 @@
+{
+  "$id": "terme",
+  "title": "Terme du glossaire",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "terme", "definition"],
+  "properties": {
+    "id": { "$ref": "defs#/definitions/id" },
+    "terme": { "type": "string" },
+    "translitteration": { "type": "string" },
+    "langue": { "enum": ["arabe", "hebreu", "grec", "arameen", "syriaque", "latin", "francais"] },
+    "definition": { "type": "string" },
+    "voir_aussi": { "$ref": "defs#/definitions/ids" }
+  }
+}

@@ -1,0 +1,18 @@
+id: pourquoi-dieu-permet-la-souffrance
+question: Pourquoi Dieu permet-il la souffrance ?
+adressee_a: atheisme
+objectif: "Fiche de réponse rapide (question reçue, non posée) : répondre en 30 secondes puis en 2 minutes."
+themes:
+  - probleme-du-mal
+arguments:
+  - probleme-du-mal-reponses
+statut: ebauche
+origine:
+  - docs/debats/pourquoi-dieu-permet-il-la-souffrance.md (version MkDocs initiale)
+reponses_possibles:
+  - reponse: Réponse en 30 secondes.
+    relance: "C’est une vraie question, et la Bible la pose (Job, les Psaumes). Ne pas voir de raison ne prouve pas qu’il n’y en a pas. Si le mal est vraiment mal, il faut une norme du bien. Et Dieu n’est pas resté loin : il est venu souffrir avec nous sur la croix."
+  - reponse: Tu poses la question parce que tu vis quelque chose de difficile ?
+    relance: D’abord écouter. Ne pas répondre par un argument à quelqu’un qui souffre, ni dire « tout arrive pour une raison » à propos d’un drame particulier.
+  - reponse: Si Dieu n’existe pas, sur quelle base dis-tu que cette souffrance est injuste ?
+    relance: Introduire l’argument moral (fiche à rédiger).

@@ -1,0 +1,11 @@
+id: dilemme-adultere-question
+question: Selon Jésus, celui qui épouse une femme répudiée commet-il un adultère ? Alors qu’en est-il du mariage avec Zaynab ?
+adressee_a: islam
+objectif: Ouvrir le dilemme de l’adultère.
+themes:
+  - dilemmes-paraclet
+arguments:
+  - dilemme-de-l-adultere
+statut: ebauche
+origine:
+  - PUBLIC/Le dilemme de l'adultère.pdf

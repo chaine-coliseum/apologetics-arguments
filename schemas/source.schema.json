@@ -1,0 +1,19 @@
+{
+  "$id": "source",
+  "title": "Source",
+  "description": "Ouvrage, article, vidéo ou document de référence. Fichier data/sources/<id>.yaml.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "type", "titre"],
+  "properties": {
+    "id": { "$ref": "defs#/definitions/id" },
+    "type": { "enum": ["livre", "chapitre", "article", "site", "video", "debat", "document-interne"] },
+    "auteurs": { "type": "array", "items": { "type": "string" } },
+    "titre": { "type": "string" },
+    "dans": { "type": "string", "description": "Ouvrage ou revue contenant l'article / le chapitre." },
+    "editeur": { "type": "string" },
+    "annee": { "type": ["integer", "string"] },
+    "url": { "type": "string" },
+    "note": { "type": "string" }
+  }
+}

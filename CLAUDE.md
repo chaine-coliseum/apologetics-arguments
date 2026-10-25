@@ -1,8 +1,9 @@
 # Notes pour Claude
 
-- Base de connaissances en apologétique chrétienne, rédigée en **français**, publiée avec MkDocs Material (`mkdocs.yml`).
-- Périmètre : **christianisme commun** (catholiques, protestants et orthodoxes). Quand une réponse dépend d'une confession, la signaler sans trancher.
-- Les conventions (nommage, en-tête YAML, sourçage, statuts) sont dans `CONTRIBUTING.md`. Les modèles de fiches se trouvent dans `modeles/`.
-- Ne jamais inventer de source, de citation ou de numéro de page. Si une référence n'est pas vérifiée, l'écrire en clair (`<!-- à vérifier -->`).
-- Toute nouvelle fiche doit être ajoutée à l'`index.md` de son dossier et à `nav` dans `mkdocs.yml`.
-- Vérifier avec `mkdocs build --strict`.
+- Base de données d'apologétique chrétienne en **français**, centrée sur le débat islamo-chrétien. Les données (`data/`) seront servies par une API NestJS et un front Nuxt, développés à part.
+- Périmètre : **christianisme commun**. Quand une réponse dépend d'une confession, la signaler sans trancher.
+- Le modèle (collections, types d'arguments, relations) est décrit dans `README.md`, les conventions dans `CONTRIBUTING.md`, et les schémas dans `schemas/`.
+- Toujours lancer `npm run validate` après une modification de `data/`.
+- Ne jamais inventer de source, de citation ou de numéro de page. Signaler toute référence non vérifiée (`à vérifier`).
+- Ne jamais intégrer de contenu visant des personnes privées.
+- Contenu importé du Google Drive de l'équipe (`G:\Mon Drive\PDF`, surtout le dossier `PUBLIC/`) ; le champ `origine` trace le document source.

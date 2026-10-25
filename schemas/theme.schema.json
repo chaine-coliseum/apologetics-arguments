@@ -1,0 +1,15 @@
+{
+  "$id": "theme",
+  "title": "Thème",
+  "description": "Catégorie hiérarchique (parent facultatif). Fichier data/themes/<id>.yaml.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "titre"],
+  "properties": {
+    "id": { "$ref": "defs#/definitions/id" },
+    "titre": { "type": "string" },
+    "description": { "type": "string" },
+    "parent": { "$ref": "defs#/definitions/id" },
+    "ordre": { "type": "integer" }
+  }
+}

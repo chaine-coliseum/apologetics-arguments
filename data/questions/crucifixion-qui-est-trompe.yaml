@@ -1,0 +1,13 @@
+id: crucifixion-qui-est-trompe
+question: Si quelqu’un d’autre a été crucifié à la place de Jésus, qui a trompé Marie, les apôtres et Jean au pied de la croix ?
+adressee_a: islam
+objectif: Montrer que la substitution fait de Dieu l’auteur d’une tromperie.
+themes:
+  - crucifixion
+arguments:
+  - substitution-reponse
+passages:
+  - coran-4-157-158
+statut: ebauche
+origine:
+  - PUBLIC/La crucifixion.pdf

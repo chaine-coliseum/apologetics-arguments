@@ -1,0 +1,7 @@
+id: hadith
+terme: Hadith
+translitteration: ḥadîth
+langue: arabe
+definition: Parole ou acte rapporté du Prophète, transmis avec une chaîne de garants (isnâd).
+voir_aussi:
+  - isnad

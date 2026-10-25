@@ -1,12 +1,10 @@
-# Site généré par MkDocs
-site/
+# Export généré par npm run build
+dist/
 
-# Environnement Python
-.venv/
-__pycache__/
+# Dépendances
+node_modules/
 
 # Éditeurs
-.obsidian/workspace*.json
 .vscode/
 .DS_Store
 Thumbs.db

@@ -1,0 +1,14 @@
+id: paraclet-livre-ou-homme
+question: "Qui est le Paraclet selon toi : le Coran ou Muhammad ?"
+adressee_a: islam
+objectif: Forcer à choisir entre les deux thèses, qui ne peuvent pas être vraies ensemble.
+themes:
+  - paraclet
+arguments:
+  - reponse-coran-esprit-intercession
+statut: ebauche
+origine:
+  - PUBLIC/Le Paraclet.pdf
+  - PUBLIC/Le Paraclet Débat.pdf
+passages:
+  - coran-42-52

@@ -1,0 +1,15 @@
+id: is42-targum-messie
+question: Le Targum traduit Es 42,1 par « Voici mon serviteur, le Messie ». Qui est le Messie selon le Coran ?
+adressee_a: islam
+objectif: Conduire à l’identification Messie = Jésus, admise par le Coran.
+themes:
+  - muhammad-dans-la-bible
+  - jesus
+arguments:
+  - esaie-42-serviteur-messie
+passages:
+  - targum-esaie-42-1
+  - coran-3-45
+statut: ebauche
+origine:
+  - PUBLIC/Ésaïe 42.pdf

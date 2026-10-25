@@ -1,0 +1,22 @@
+id: prealable-jean-14-inspire
+question: Considères-tu Jean 14 à 16 comme une parole inspirée ? Si oui, en entier ; si non, pourquoi l’invoquer ?
+adressee_a: islam
+objectif: "Question préalable : fixer la règle avant le débat et désamorcer le tri entre versets."
+themes:
+  - paraclet
+  - falsification-de-la-bible
+arguments:
+  - reponse-falsification-incoherence
+statut: ebauche
+origine:
+  - PUBLIC/Le Paraclet.pdf
+  - PUBLIC/Le Paraclet Débat.pdf
+reponses_possibles:
+  - reponse: Seulement les versets qui s’accordent avec le Coran.
+    relance: Le critère « est authentique ce qui confirme le Coran » est circulaire. Et le Coran dit que les gens du Livre ont la Torah et l’Évangile « chez eux » (7,157).
+    arguments:
+      - reponse-falsification-incoherence
+  - reponse: Oui, il est inspiré.
+    relance: "Alors Jn 14,26 l’est aussi : « le Paraclet, l’Esprit-Saint »."
+    arguments:
+      - paraclet-est-le-saint-esprit

@@ -1,0 +1,21 @@
+id: paraclet-muhammad-est-il-un-esprit
+question: Muhammad est-il un esprit, que le monde ne voit pas et qui sera en nous ?
+adressee_a: islam
+objectif: Faire constater que les quatre annonces décrivent un esprit invisible et intérieur.
+themes:
+  - paraclet
+arguments:
+  - paraclet-est-un-esprit
+statut: ebauche
+origine:
+  - PUBLIC/Le Paraclet.pdf
+  - PUBLIC/Le Paraclet Débat.pdf
+passages:
+  - jean-14-16-17
+reponses_possibles:
+  - reponse: Les prophètes sont appelés « esprits » (1 Jn 4,1).
+    relance: Avec la même méthode, si Jean-Baptiste est « la voix » (Jn 1,23), qui crie dans le désert ? Et quel homme la Bible appelle-t-elle « l’Esprit, le Saint » ?
+    arguments:
+      - reponse-paraclet-personne
+  - reponse: C’est son enseignement qui demeure en nous.
+    relance: Le Paraclet est-il Muhammad ou son enseignement ? Et si l’enseignement de Dieu demeure éternellement (1 P 1,25), pourquoi dire que l’Évangile n’a pas été préservé ?

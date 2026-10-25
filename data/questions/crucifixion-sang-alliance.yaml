@@ -1,0 +1,13 @@
+id: crucifixion-sang-alliance
+question: Jésus parle de « la nouvelle alliance en mon sang, répandu pour vous » (Lc 22,20). Quel sang a été répandu, si ce n’est pas sur la croix ?
+adressee_a: islam
+objectif: Relier la Cène à la croix.
+themes:
+  - crucifixion
+arguments:
+  - crucifixion-annoncee-et-attestee
+passages:
+  - luc-22-20
+statut: ebauche
+origine:
+  - PUBLIC/La crucifixion.pdf

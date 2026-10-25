@@ -1,0 +1,13 @@
+id: identifiant-de-la-question
+question: La question à poser, telle qu'on la formule en débat ?
+adressee_a: islam                    # islam | christianisme | atheisme
+objectif: Ce que la question cherche à faire apparaître.
+themes: [paraclet]
+arguments: [id-de-l-argument]        # arguments que la question prépare
+passages: []
+reponses_possibles:
+  - reponse: Réponse probable de l'interlocuteur.
+    relance: Ce qu'on lui répond alors.
+    arguments: []
+statut: ebauche
+origine: [PUBLIC/Nom du document.pdf]

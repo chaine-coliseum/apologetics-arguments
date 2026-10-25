@@ -1,0 +1,12 @@
+id: dilemme-crucifixion-question
+question: Jésus a-t-il annoncé sa propre mort et sa résurrection, oui ou non ?
+adressee_a: islam
+objectif: Ouvrir le dilemme de la crucifixion.
+themes:
+  - dilemmes-paraclet
+  - crucifixion
+arguments:
+  - dilemme-de-la-crucifixion
+statut: ebauche
+origine:
+  - PUBLIC/Le dilemme de la Crucifixion.pdf

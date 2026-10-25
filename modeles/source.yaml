@@ -1,0 +1,9 @@
+id: auteur-titre-court
+type: livre                          # livre | chapitre | article | site | video | debat | document-interne
+auteurs: [Prénom Nom]
+titre: Titre exact
+dans: Revue ou ouvrage collectif (pour un article ou un chapitre)
+editeur: Éditeur
+annee: 2024
+url: https://…
+note: Pages utiles, remarques.

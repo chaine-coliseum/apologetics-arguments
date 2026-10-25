@@ -1,0 +1,11 @@
+id: dilemme-bapteme-question
+question: Où Muhammad a-t-il enseigné le baptême au nom du Père, du Fils et du Saint-Esprit ?
+adressee_a: islam
+objectif: Ouvrir le dilemme du baptême.
+themes:
+  - dilemmes-paraclet
+arguments:
+  - dilemme-du-bapteme
+statut: ebauche
+origine:
+  - PUBLIC/Le dilemme du Baptême.pdf

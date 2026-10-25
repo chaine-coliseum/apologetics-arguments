@@ -1,0 +1,18 @@
+{
+  "$id": "passage",
+  "title": "Passage",
+  "description": "Un texte cité (verset, hadith, extrait de tafsir…). Fichier data/passages/<id>.yaml.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "corpus", "reference"],
+  "properties": {
+    "id": { "$ref": "defs#/definitions/id" },
+    "corpus": { "enum": ["bible", "coran", "hadith", "tafsir", "sira", "patristique", "juif", "autre"] },
+    "reference": { "type": "string", "description": "Ex. « Jn 14,16 », « Coran 4,157 », « Sahih al-Bukhari 3017 »." },
+    "texte": { "type": "string" },
+    "traduction": { "type": "string", "description": "Traduction utilisée (Segond 21, Hamidullah…)." },
+    "texte_original": { "type": "string" },
+    "note": { "type": "string" },
+    "themes": { "$ref": "defs#/definitions/ids" }
+  }
+}

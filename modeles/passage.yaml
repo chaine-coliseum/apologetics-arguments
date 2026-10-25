@@ -1,0 +1,8 @@
+id: jean-14-26                       # livre-chapitre-verset ; coran-4-157 ; bukhari-3
+corpus: bible                        # bible | coran | hadith | tafsir | sira | patristique | juif | autre
+reference: Jn 14,26
+texte: Texte cité.
+traduction: Segond 1910              # Hamidullah (Complexe Roi Fahd) pour le Coran
+texte_original: Texte grec, hébreu ou arabe (facultatif).
+note: Remarque exégétique (facultatif).
+themes: [paraclet]

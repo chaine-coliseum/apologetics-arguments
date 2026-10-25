@@ -1,0 +1,28 @@
+{
+  "name": "apologetics-arguments",
+  "version": "1.0.0",
+  "description": "Base de données d’arguments apologétiques chrétiens (débat islamo-chrétien en priorité).",
+  "scripts": {
+    "validate": "node scripts/build.mjs --check",
+    "build": "node scripts/build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaine-coliseum/apologetics-arguments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chaine-coliseum/apologetics-arguments/issues"
+  },
+  "homepage": "https://github.com/chaine-coliseum/apologetics-arguments#readme",
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "gray-matter": "^4.0.3",
+    "yaml": "^2.9.1"
+  },
+  "private": true
+}

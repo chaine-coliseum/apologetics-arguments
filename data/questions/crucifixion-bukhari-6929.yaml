@@ -1,0 +1,13 @@
+id: crucifixion-bukhari-6929
+question: "Dans Bukhari 6929, quel prophète, battu et ensanglanté, dit : « Seigneur, pardonne à mon peuple, car ils ne savent pas » ?"
+adressee_a: islam
+objectif: Faire reconnaître les paroles de Jésus en croix.
+themes:
+  - crucifixion
+arguments:
+  - substitution-reponse
+passages:
+  - bukhari-6929
+statut: ebauche
+origine:
+  - PUBLIC/La crucifixion.pdf

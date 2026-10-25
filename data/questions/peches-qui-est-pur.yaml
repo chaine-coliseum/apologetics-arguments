@@ -1,0 +1,20 @@
+id: peches-qui-est-pur
+question: "Selon le Coran et les hadiths, lequel est sans péché : Jésus, « fils pur » (19,19), ou Muhammad, à qui Allah pardonne ses péchés passés et futurs (48,2) ?"
+adressee_a: islam
+objectif: Mettre en contraste la pureté de Jésus et les péchés de Muhammad dans les sources islamiques.
+themes:
+  - muhammad
+  - jesus
+arguments:
+  - muhammad-pecheur-jesus-pur
+passages:
+  - coran-19-19
+  - coran-48-2
+statut: ebauche
+origine:
+  - PUBLIC/Les péchés de Muhammad.pdf
+reponses_possibles:
+  - reponse: Ce sont des fautes mineures, ou les péchés de la communauté.
+    relance: Alors pourquoi 47,19 dit-il « ton péché » et « pour les croyants » séparément ? Et pourquoi ce vocabulaire n’est-il jamais appliqué à Jésus ?
+    arguments:
+      - muhammad-pecheur-jesus-pur

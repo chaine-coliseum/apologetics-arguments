@@ -1,0 +1,12 @@
+id: mishna-ou-est-ce-ecrit
+question: "Coran 5,32 dit : « Nous avons prescrit pour les Enfants d’Israël… ». Où ce précepte se trouve-t-il dans la Torah ?"
+adressee_a: islam
+objectif: Amener à constater que la source est la Mishna.
+themes:
+  - coran
+arguments:
+  - coran-cite-la-mishna
+passages:
+  - coran-5-32
+  - mishna-sanhedrin-4-5
+statut: ebauche

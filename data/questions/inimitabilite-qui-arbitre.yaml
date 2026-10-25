@@ -1,0 +1,11 @@
+id: inimitabilite-qui-arbitre
+question: Qui juge si le défi de 2,23 est relevé, et selon quels critères ?
+adressee_a: islam
+objectif: Faire apparaître l’absence de critère et d’arbitre.
+themes:
+  - coran
+arguments:
+  - inimitabilite-defi-invalide
+passages:
+  - coran-2-23
+statut: ebauche

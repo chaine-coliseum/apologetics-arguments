@@ -1,0 +1,11 @@
+id: dilemme-parole-question
+question: Pourquoi Jésus, et lui seul, est-il appelé « parole d’Allah » dans le Coran ?
+adressee_a: islam
+objectif: Ouvrir le dilemme de la Parole.
+themes:
+  - jesus
+arguments:
+  - dilemme-de-la-parole
+statut: ebauche
+origine:
+  - PUBLIC/Le dilemme de La Parole.pdf

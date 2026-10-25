@@ -1,0 +1,11 @@
+id: coran-verset-allaitement
+question: Où se trouve, dans ton Coran, le verset des cinq allaitements que ʿÂʾisha dit avoir été récité jusqu’à la mort du Prophète ?
+adressee_a: islam
+objectif: Introduire les versets perdus.
+themes:
+  - coran
+arguments:
+  - coran-versets-oublies-et-perdus
+passages:
+  - muslim-1452a
+statut: ebauche

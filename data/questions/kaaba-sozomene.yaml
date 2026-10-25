@@ -1,0 +1,11 @@
+id: kaaba-sozomene
+question: Si Abraham a bâti la Kaaba, pourquoi les Arabes du Vᵉ siècle allaient-ils en pèlerinage au sanctuaire d’Abraham à Mamré, près d’Hébron (Sozomène) ?
+adressee_a: islam
+objectif: Mettre en doute l’origine abrahamique de la Kaaba.
+themes:
+  - morale-islamique
+arguments:
+  - kaaba-origine-paienne
+statut: ebauche
+origine:
+  - PUBLIC/La Kaaba.pdf

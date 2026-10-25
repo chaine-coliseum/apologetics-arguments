@@ -1,0 +1,14 @@
+id: crucifixion-quand-jesus-meurt
+question: Coran 19,33 parle du « jour où je mourrai ». Quand Jésus meurt-il, selon toi, et que signifie *tawaffâ* partout ailleurs dans le Coran ?
+adressee_a: islam
+objectif: Montrer que le Coran parle de la mort de Jésus.
+themes:
+  - crucifixion
+arguments:
+  - tawaffa-signifie-mourir
+passages:
+  - coran-19-33
+  - coran-5-117
+statut: ebauche
+origine:
+  - PUBLIC/La crucifixion.pdf

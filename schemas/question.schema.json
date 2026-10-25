@@ -1,0 +1,32 @@
+{
+  "$id": "question",
+  "title": "Question de débat",
+  "description": "Une question à poser à l'interlocuteur, avec ses réponses probables et la relance correspondante. Fichier data/questions/<id>.yaml.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "question", "adressee_a", "objectif", "themes", "statut"],
+  "properties": {
+    "id": { "$ref": "defs#/definitions/id" },
+    "question": { "type": "string", "minLength": 5 },
+    "adressee_a": { "enum": ["islam", "christianisme", "atheisme"] },
+    "objectif": { "type": "string", "description": "Ce que la question cherche à faire apparaître." },
+    "themes": { "type": "array", "$ref": "defs#/definitions/ids", "minItems": 1 },
+    "arguments": { "$ref": "defs#/definitions/ids", "description": "Arguments que la question prépare ou met en œuvre." },
+    "passages": { "$ref": "defs#/definitions/ids" },
+    "reponses_possibles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["reponse", "relance"],
+        "properties": {
+          "reponse": { "type": "string" },
+          "relance": { "type": "string" },
+          "arguments": { "$ref": "defs#/definitions/ids" }
+        }
+      }
+    },
+    "statut": { "$ref": "defs#/definitions/statut" },
+    "origine": { "type": "array", "items": { "type": "string" } }
+  }
+}

@@ -1,0 +1,11 @@
+id: dilemme-gestation-question
+question: Si gestation et sevrage durent trente mois et que le sevrage dure deux ans, combien de temps dure la gestation selon le Coran ?
+adressee_a: islam
+objectif: Ouvrir le dilemme de la gestation.
+themes:
+  - coran
+arguments:
+  - dilemme-de-la-gestation
+statut: ebauche
+origine:
+  - PUBLIC/Le dilemme de la gestation.pdf

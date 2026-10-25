@@ -6,6 +6,17 @@ camp: islam
 resume: Juifs et chrétiens auraient altéré leurs Écritures (texte ou sens) ; la Torah et l’Évangile originels ne nous seraient pas parvenus.
 themes:
   - falsification-de-la-bible
+contredit:
+  - argument: deuteronome-18-18-annonce-muhammad
+    explication: "Invoquer Dt 18,18 comme annonce de Muhammad suppose que ce texte est authentique, ce que la thèse de la falsification lui retire. Réponse attendue : la falsification n’est que partielle ; il faut alors un critère non circulaire pour dire quels versets ont été préservés."
+  - argument: deuteronome-33-2-annonce-muhammad
+    explication: "Invoquer Dt 33,2 comme annonce de Muhammad suppose que ce texte est authentique, ce que la thèse de la falsification lui retire. Réponse attendue : la falsification n’est que partielle ; il faut alors un critère non circulaire pour dire quels versets ont été préservés."
+  - argument: genese-17-20-annonce-l-islam
+    explication: "Invoquer Gn 17,20 comme annonce de Muhammad suppose que ce texte est authentique, ce que la thèse de la falsification lui retire. Réponse attendue : la falsification n’est que partielle ; il faut alors un critère non circulaire pour dire quels versets ont été préservés."
+  - argument: esaie-42-annonce-muhammad
+    explication: "Invoquer Es 42 comme annonce de Muhammad suppose que ce texte est authentique, ce que la thèse de la falsification lui retire. Réponse attendue : la falsification n’est que partielle ; il faut alors un critère non circulaire pour dire quels versets ont été préservés."
+  - argument: schilo-est-muhammad
+    explication: "Invoquer Gn 49,10 comme annonce de Muhammad suppose que ce texte est authentique, ce que la thèse de la falsification lui retire. Réponse attendue : la falsification n’est que partielle ; il faut alors un critère non circulaire pour dire quels versets ont été préservés."
 passages:
   - coran-2-79
 statut: ebauche

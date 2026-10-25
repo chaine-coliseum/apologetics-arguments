@@ -3,6 +3,10 @@ corpus: coran
 reference: Coran 5,18
 texte: "Les Juifs et les Chrétiens ont dit : « Nous sommes les fils d'Allah et Ses préférés. » Dis : « Pourquoi donc vous châtie-t-Il pour vos péchés ? » En fait, vous êtes des êtres humains d'entre ceux qu'Il a créés."
 traduction: Hamidullah (Complexe Roi Fahd)
+liens:
+  - passage: coran-9-30
+    type: parallele
+    note: Rejet de la filiation divine revendiquée par Juifs et chrétiens.
 themes:
   - jesus
   - allah

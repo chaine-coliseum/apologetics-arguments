@@ -5,4 +5,9 @@ texte: Texte cité.
 traduction: Segond 1910              # Hamidullah (Complexe Roi Fahd) pour le Coran
 texte_original: Texte grec, hébreu ou arabe (facultatif).
 note: Remarque exégétique (facultatif).
+liens:                               # facultatif ; déclaré d'un seul côté, l'export ajoute l'inverse
+  - passage: jean-14-16-17
+    type: parallele                  # parallele | tension | cite | commente | abroge
+    note: En quoi les deux textes se rapportent.
+    argument: id-de-l-argument       # facultatif : argument qui exploite ce lien
 themes: [paraclet]

@@ -16,7 +16,9 @@ reponses_possibles:
     relance: Le critère « est authentique ce qui confirme le Coran » est circulaire. Et le Coran dit que les gens du Livre ont la Torah et l’Évangile « chez eux » (7,157).
     arguments:
       - reponse-falsification-incoherence
+    suite: coran-5-47-juger-evangile
   - reponse: Oui, il est inspiré.
     relance: "Alors Jn 14,26 l’est aussi : « le Paraclet, l’Esprit-Saint »."
     arguments:
       - paraclet-est-le-saint-esprit
+    suite: paraclet-muhammad-est-il-un-esprit

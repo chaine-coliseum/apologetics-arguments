@@ -9,5 +9,6 @@ reponses_possibles:
   - reponse: Réponse probable de l'interlocuteur.
     relance: Ce qu'on lui répond alors.
     arguments: []
+    suite: id-de-la-question-suivante  # facultatif : question à poser après cette réponse
 statut: ebauche
 origine: [PUBLIC/Nom du document.pdf]

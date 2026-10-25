@@ -4,5 +4,17 @@ reference: Coran 3,55
 texte: "(Rappelle-toi) quand Allah dit : « Ô Jésus, certes, Je vais mettre fin à ta vie terrestre (mutawaffîka), t'élever vers Moi, te débarrasser de ceux qui n'ont pas cru et mettre jusqu'au Jour de la Résurrection ceux qui te suivent au-dessus de ceux qui ne croient pas. »"
 traduction: Hamidullah (Complexe Roi Fahd)
 note: "Ibn ʿAbbâs (cité par al-Bukhârî, Kitâb at-tafsîr) : mutawaffîka = « je vais te faire mourir »."
+liens:
+  - passage: coran-5-117
+    type: parallele
+    note: Seuls emplois de *tawaffâ* pour Jésus.
+    argument: tawaffa-signifie-mourir
+  - passage: coran-4-157-158
+    type: parallele
+    note: Allah « élève » Jésus vers Lui.
+  - passage: coran-19-33
+    type: parallele
+    note: La mort de Jésus.
+    argument: tawaffa-signifie-mourir
 themes:
   - crucifixion

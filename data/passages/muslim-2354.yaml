@@ -3,5 +3,10 @@ corpus: hadith
 reference: Sahih Muslim 2354
 texte: Je suis Muhammad et je suis Ahmad, et je suis al-Mâḥî par qui l'incrédulité est effacée, et je suis al-Ḥâshir aux pieds duquel l'humanité sera rassemblée, et je suis al-ʿÂqib après qui il n'y aura plus de prophète.
 note: Seule base de l’identification d’« Ahmad » (61,6) à Muhammad, reprise par Ibn Kathîr.
+liens:
+  - passage: coran-61-6
+    type: commente
+    note: Seule base de l’identification d’« Ahmad » à Muhammad.
+    argument: ahmad-61-6-n-est-pas-muhammad
 themes:
   - paraclet

@@ -3,5 +3,10 @@ corpus: bible
 reference: Mt 12,15-21
 texte: "Mais Jésus, l'ayant su, s'éloigna de ce lieu. Une grande foule le suivit. Il guérit tous les malades, et il leur recommanda sévèrement de ne pas le faire connaître, afin que s'accomplît ce qui avait été annoncé par Ésaïe, le prophète: Voici mon serviteur que j'ai choisi, Mon bien-aimé en qui mon âme a pris plaisir. Je mettrai mon Esprit sur lui, et il annoncera la justice aux nations. […] Et les nations espéreront en son nom."
 traduction: Segond 1910
+liens:
+  - passage: esaie-42-1-7
+    type: cite
+    note: Mt 12,18-21 cite Es 42,1-4.
+    argument: esaie-42-serviteur-messie
 themes:
   - jesus

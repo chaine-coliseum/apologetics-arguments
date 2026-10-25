@@ -2,5 +2,9 @@ id: rachi-genese-17-20
 corpus: juif
 reference: Rachi sur Gn 17,20
 texte: "« Douze princes (nesi’im) » : ils disparaîtront comme des nuages, comme il est dit : « Des nuages et du vent » (Pr 25,14)."
+liens:
+  - passage: genese-17-18-21
+    type: commente
+    argument: genese-17-20-rabbins-tronques
 themes:
   - muhammad-dans-la-bible

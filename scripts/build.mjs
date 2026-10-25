@@ -25,15 +25,15 @@ const REFS = {
   themes: { parent: 'themes' },
   arguments: {
     themes: 'themes', repond_a: 'arguments', appuie: 'arguments', voir_aussi: 'arguments',
-    passages: 'passages', 'sources[].id': 'sources',
+    'contredit[].argument': 'arguments', passages: 'passages', 'sources[].id': 'sources',
     'premisses[].argument': 'arguments', 'premisses[].passages': 'passages',
   },
   questions: {
     themes: 'themes', arguments: 'arguments', passages: 'passages',
-    'reponses_possibles[].arguments': 'arguments',
+    'reponses_possibles[].arguments': 'arguments', 'reponses_possibles[].suite': 'questions',
   },
-  passages: { themes: 'themes' },
-  termes: { voir_aussi: 'termes' },
+  passages: { themes: 'themes', 'liens[].passage': 'passages', 'liens[].argument': 'arguments' },
+  termes: { voir_aussi: 'termes', arguments: 'arguments', passages: 'passages' },
 };
 
 const ajv = new Ajv({ allErrors: true, allowUnionTypes: true });
@@ -101,6 +101,33 @@ for (const a of db.arguments) {
   }
 }
 
+// Relations entre pairs : pas de boucle, pas de doublon, et contredit reste dans un même camp.
+const paires = new Set();
+const paire = (col, a, b) => [a, b].sort().join(' ↔ ') + ` (${col})`;
+for (const a of db.arguments) {
+  for (const { argument: b } of a.contredit ?? []) {
+    const cible = index.arguments.get(b);
+    if (b === a.id) errors.push(`arguments/${a.id} : contredit pointe vers lui-même`);
+    else if (cible && cible.camp !== a.camp) errors.push(`arguments/${a.id} : contredit « ${b} » est d'un autre camp (utiliser repond_a)`);
+    const k = paire('contredit', a.id, b);
+    if (paires.has(k)) errors.push(`arguments/${a.id} : contredit « ${b} » déclaré deux fois (une seule déclaration suffit)`);
+    paires.add(k);
+  }
+}
+for (const p of db.passages) {
+  for (const l of p.liens ?? []) {
+    if (l.passage === p.id) errors.push(`passages/${p.id} : lien vers lui-même`);
+    const k = paire(l.type, p.id, l.passage);
+    if (paires.has(k)) errors.push(`passages/${p.id} : lien ${l.type} vers « ${l.passage} » déclaré deux fois`);
+    paires.add(k);
+  }
+}
+for (const q of db.questions) {
+  for (const r of q.reponses_possibles ?? []) {
+    if (r.suite === q.id) errors.push(`questions/${q.id} : suite pointe vers elle-même`);
+  }
+}
+
 if (errors.length) {
   console.error(`✗ ${errors.length} erreur(s) :\n  ${errors.join('\n  ')}`);
   process.exit(1);
@@ -111,6 +138,36 @@ for (const a of db.arguments) {
   a.repondu_par = db.arguments.filter((b) => b.repond_a?.includes(a.id)).map((b) => b.id);
   a.appuye_par = db.arguments.filter((b) => b.appuie?.includes(a.id)).map((b) => b.id);
   a.questions = db.questions.filter((q) => q.arguments?.includes(a.id)).map((q) => q.id);
+  a.contredit = [
+    ...(a.contredit ?? []),
+    ...db.arguments.flatMap((b) => (b.contredit ?? [])
+      .filter((c) => c.argument === a.id)
+      .map((c) => ({ argument: b.id, explication: c.explication }))),
+  ];
+  a.termes = db.termes.filter((t) => t.arguments?.includes(a.id)).map((t) => t.id);
+}
+
+const INVERSE = { parallele: 'parallele', tension: 'tension', cite: 'cite_par', commente: 'commente_par', abroge: 'abroge_par' };
+for (const p of db.passages) {
+  p.liens = [
+    ...(p.liens ?? []),
+    ...db.passages.flatMap((o) => (o.liens ?? [])
+      .filter((l) => l.passage === p.id)
+      .map(({ passage, type, ...reste }) => ({ passage: o.id, type: INVERSE[type], ...reste }))),
+  ];
+  p.utilise_par = {
+    arguments: db.arguments.filter((a) => a.passages?.includes(p.id) || a.premisses?.some((m) => m.passages?.includes(p.id))).map((a) => a.id),
+    questions: db.questions.filter((q) => q.passages?.includes(p.id)).map((q) => q.id),
+  };
+  p.termes = db.termes.filter((t) => t.passages?.includes(p.id)).map((t) => t.id);
+}
+
+for (const s of db.sources) {
+  s.utilisee_par = db.arguments.filter((a) => a.sources?.some((r) => r.id === s.id)).map((a) => a.id);
+}
+
+for (const q of db.questions) {
+  q.precedee_par = db.questions.filter((o) => o.reponses_possibles?.some((r) => r.suite === q.id)).map((o) => o.id);
 }
 
 const counts = Object.entries(db).map(([k, v]) => `${v.length} ${k}`).join(', ');

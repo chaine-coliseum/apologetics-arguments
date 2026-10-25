@@ -3,5 +3,10 @@ corpus: coran
 reference: Coran 69,44-46
 texte: Et s'il avait forgé quelques paroles qu'il Nous eût attribuées, Nous l'aurions saisi de la main droite, ensuite, Nous lui aurions tranché l'aorte.
 traduction: Hamidullah (Complexe Roi Fahd)
+liens:
+  - passage: bukhari-4428
+    type: tension
+    note: Le signe du faussaire et les paroles de Muhammad mourant.
+    argument: muhammad-aorte-tranchee
 themes:
   - muhammad

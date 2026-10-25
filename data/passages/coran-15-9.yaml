@@ -3,5 +3,18 @@ corpus: coran
 reference: Coran 15,9
 texte: En vérité c'est Nous qui avons fait descendre le Coran, et c'est Nous qui en sommes gardien.
 traduction: Hamidullah (Complexe Roi Fahd)
+liens:
+  - passage: muslim-1452a
+    type: tension
+    note: Préservation et verset des allaitements absent du muṣḥaf.
+    argument: coran-versets-oublies-et-perdus
+  - passage: muslim-788a
+    type: tension
+    note: Préservation et versets oubliés.
+    argument: coran-versets-oublies-et-perdus
+  - passage: abu-dawud-1475
+    type: tension
+    note: Préservation et lectures divergentes.
+    argument: coran-lectures-differentes
 themes:
   - coran

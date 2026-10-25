@@ -19,6 +19,19 @@
 
 Une prémisse utilisée par plusieurs arguments devient un argument à part entière, référencé dans `premisses[].argument`.
 
+## Choisir la relation
+
+| Relation | Quand l'utiliser |
+| --- | --- |
+| `repond_a` | L'argument répond à un argument (en général de l'autre camp) |
+| `appuie` | L'argument en soutient un autre du même camp |
+| `contredit` | Deux arguments du même camp ne peuvent pas être soutenus ensemble ; l'`explication` dit pourquoi. Déclarer d'un seul côté |
+| `voir_aussi` | Lien de lecture, sans rapport logique précis |
+| `reponses_possibles[].suite` | La question à poser ensuite si l'interlocuteur donne cette réponse |
+| `liens` (passages) | `parallele` : même récit ou formule ; `tension` : textes présentés comme incompatibles ; `cite` : ce passage cite l'autre ; `commente` : ce passage commente l'autre ; `abroge` : ce passage abroge l'autre. Préciser `argument` quand un argument exploite le lien |
+
+La validation refuse un `contredit` entre camps différents (c'est alors un `repond_a`), une relation d'une entité vers elle-même et une paire déclarée deux fois.
+
 ## Identifiants des passages
 
 - Bible : `livre-chapitre-verset` en toutes lettres (`jean-14-26`, `1-corinthiens-15-14`, `deuteronome-18-15-19`).

@@ -4,6 +4,15 @@ reference: Coran 6,115
 texte: Et la parole de ton Seigneur s'est accomplie en toute vérité et équité. Nul ne peut modifier Ses paroles. Il est l'Audient, l'Omniscient.
 traduction: Hamidullah (Complexe Roi Fahd)
 note: "Voir aussi 6,34 ; 10,64 ; 18,27. Argument retourné : si nul ne peut modifier les paroles d’Allah, la Torah et l’Évangile n’ont pu l’être."
+liens:
+  - passage: coran-2-106
+    type: tension
+    note: Paroles immuables et abrogation.
+    argument: abrogation-contredit-l-immutabilite
+  - passage: coran-2-79
+    type: tension
+    note: Nul ne change les paroles d’Allah, mais des livres auraient été falsifiés.
+    argument: coran-confirme-la-bible
 themes:
   - coran
   - falsification-de-la-bible

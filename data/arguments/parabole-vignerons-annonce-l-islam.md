@@ -9,6 +9,9 @@ themes:
 appuie:
   - muhammad-prophete-de-la-lignee-biblique
   - genese-17-20-annonce-l-islam
+contredit:
+  - argument: jesus-non-crucifie-substitution
+    explication: Dans la parabole, la vigne est donnée à d’autres parce que le fils est tué (Mt 21,39-41). Y voir l’annonce de l’islam, c’est admettre la mise à mort du fils, que Coran 4,157 nie.
 passages:
   - matthieu-21-37-43
   - bukhari-3535

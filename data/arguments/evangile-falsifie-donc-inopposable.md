@@ -7,6 +7,13 @@ resume: Les paroles de Jésus citées contre Muhammad viendraient d’un Évangi
 themes:
   - falsification-de-la-bible
   - dilemmes-paraclet
+contredit:
+  - argument: muhammad-est-le-paraclet
+    explication: Le Paraclet (Jn 14-16) est tiré de l’Évangile que cette objection déclare falsifié. On ne peut pas en retenir ce qui sert Muhammad et rejeter le reste du même texte (voir reponse-falsification-incoherence).
+  - argument: jean-1-21-le-prophete-est-muhammad
+    explication: Jn 1,21 est tiré de l’Évangile que cette objection déclare falsifié. On ne peut pas en retenir ce qui sert Muhammad et rejeter le reste du même texte (voir reponse-falsification-incoherence).
+  - argument: parabole-vignerons-annonce-l-islam
+    explication: La parabole des vignerons (Mt 21,33-43) est tiré de l’Évangile que cette objection déclare falsifié. On ne peut pas en retenir ce qui sert Muhammad et rejeter le reste du même texte (voir reponse-falsification-incoherence).
 statut: ebauche
 ---
 

@@ -3,5 +3,9 @@ corpus: bible
 reference: Ml 2,16
 texte: Car je hais la répudiation, Dit l'Éternel, le Dieu d'Israël, Et celui qui couvre de violence son vêtement, Dit l'Éternel des armées. Prenez donc garde en votre esprit, Et ne soyez pas infidèles!
 traduction: Segond 1910
+liens:
+  - passage: luc-16-18
+    type: parallele
+    note: Rejet de la répudiation.
 themes:
   - sacrements

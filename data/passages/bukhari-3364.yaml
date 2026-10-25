@@ -3,5 +3,10 @@ corpus: hadith
 reference: Sahih al-Bukhari 3364
 texte: Récit d'Abraham emmenant Hagar et son fils Ismaël, encore allaité, jusqu'à l'emplacement de la Maison (La Mecque), où il les laisse ; épisode de la source de Zamzam.
 note: Résumé. Dans ce récit, Ismaël est un nourrisson et Abraham l’accompagne ; selon Gn 17,25 et 21,8-14, il a plus de 14 ans et Abraham ne part pas avec lui.
+liens:
+  - passage: genese-21-10-13
+    type: tension
+    note: Âge d’Ismaël et présence d’Abraham au départ.
+    argument: genese-17-20-contradiction-sunna
 themes:
   - muhammad-dans-la-bible

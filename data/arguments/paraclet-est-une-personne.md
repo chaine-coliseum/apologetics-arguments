@@ -8,6 +8,9 @@ themes:
   - paraclet
 appuie:
   - muhammad-est-le-paraclet
+contredit:
+  - argument: paraclet-coran-esprit-intercession
+    explication: La première thèse nie que le Paraclet soit un esprit ; la seconde rattache au contraire le Paraclet au Coran parce que celui-ci est appelé « un esprit » (42,52). L’une fait du Paraclet un homme, l’autre un livre (voir la question paraclet-livre-ou-homme).
 passages:
   - jean-16-12-15
 origine:

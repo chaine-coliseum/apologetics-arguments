@@ -4,5 +4,9 @@ reference: Mt 22,29-30
 texte: "Jésus leur répondit: Vous êtes dans l'erreur, parce que vous ne comprenez ni les Écritures, ni la puissance de Dieu. Car, à la résurrection, les hommes ne prendront point de femmes, ni les femmes de maris, mais ils seront comme les anges de Dieu dans le ciel."
 traduction: Segond 1910
 note: Réponse aux sadducéens (Mt 22,23-28 ; Lc 20,27-33), qui imaginaient une résurrection avec des relations conjugales.
+liens:
+  - passage: luc-20-34-36
+    type: parallele
+    note: Parallèle synoptique.
 themes:
   - morale-islamique

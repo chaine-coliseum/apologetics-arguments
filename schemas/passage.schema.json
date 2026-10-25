@@ -4,15 +4,80 @@
   "description": "Un texte cité (verset, hadith, extrait de tafsir…). Fichier data/passages/<id>.yaml.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "corpus", "reference"],
+  "required": [
+    "id",
+    "corpus",
+    "reference"
+  ],
   "properties": {
-    "id": { "$ref": "defs#/definitions/id" },
-    "corpus": { "enum": ["bible", "coran", "hadith", "tafsir", "sira", "patristique", "juif", "autre"] },
-    "reference": { "type": "string", "description": "Ex. « Jn 14,16 », « Coran 4,157 », « Sahih al-Bukhari 3017 »." },
-    "texte": { "type": "string" },
-    "traduction": { "type": "string", "description": "Traduction utilisée (Segond 21, Hamidullah…)." },
-    "texte_original": { "type": "string" },
-    "note": { "type": "string" },
-    "themes": { "$ref": "defs#/definitions/ids" }
+    "id": {
+      "$ref": "defs#/definitions/id"
+    },
+    "corpus": {
+      "enum": [
+        "bible",
+        "coran",
+        "hadith",
+        "tafsir",
+        "sira",
+        "patristique",
+        "juif",
+        "autre"
+      ]
+    },
+    "reference": {
+      "type": "string",
+      "description": "Ex. « Jn 14,16 », « Coran 4,157 », « Sahih al-Bukhari 3017 »."
+    },
+    "texte": {
+      "type": "string"
+    },
+    "traduction": {
+      "type": "string",
+      "description": "Traduction utilisée (Segond 21, Hamidullah…)."
+    },
+    "texte_original": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "liens": {
+      "description": "Liens vers d'autres passages. parallele et tension sont symétriques ; cite, commente et abroge vont de ce passage vers l'autre. On déclare un lien d'un seul côté, l'export ajoute l'inverse.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "passage",
+          "type"
+        ],
+        "properties": {
+          "passage": {
+            "$ref": "defs#/definitions/id"
+          },
+          "type": {
+            "enum": [
+              "parallele",
+              "tension",
+              "cite",
+              "commente",
+              "abroge"
+            ],
+            "description": "parallele : même récit, enseignement ou formule ; tension : textes présentés comme incompatibles ; cite : ce passage cite ou paraphrase l'autre ; commente : ce passage est une exégèse de l'autre ; abroge : ce passage abroge l'autre."
+          },
+          "note": {
+            "type": "string"
+          },
+          "argument": {
+            "$ref": "defs#/definitions/id",
+            "description": "Argument qui exploite ce lien."
+          }
+        }
+      }
+    },
+    "themes": {
+      "$ref": "defs#/definitions/ids"
+    }
   }
 }

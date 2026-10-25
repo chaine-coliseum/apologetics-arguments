@@ -3,5 +3,9 @@ corpus: bible
 reference: 1 Co 11,23-26
 texte: "Car j'ai reçu du Seigneur ce que je vous ai enseigné; c'est que le Seigneur Jésus, dans la nuit où il fut livré, prit du pain, et, après avoir rendu grâces, le rompit, et dit: Ceci est mon corps, qui est rompu pour vous; faites ceci en mémoire de moi. De même, après avoir soupé, il prit la coupe, et dit: Cette coupe est la nouvelle alliance en mon sang; faites ceci en mémoire de moi toutes les fois que vous en boirez. Car toutes les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur, jusqu'à ce qu'il vienne."
 traduction: Segond 1910
+liens:
+  - passage: luc-22-20
+    type: parallele
+    note: Institution de la Cène.
 themes:
   - sacrements

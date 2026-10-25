@@ -4,5 +4,10 @@ reference: Ex 22,15-16
 texte: Si un homme séduit une vierge qui n'est point fiancée, et qu'il couche avec elle, il paiera sa dot et la prendra pour femme. Si le père refuse de la lui accorder, il paiera en argent la valeur de la dot des vierges.
 traduction: Segond 1910
 note: "Numérotation hébraïque : 22,16-17."
+liens:
+  - passage: deuteronome-22-25-29
+    type: parallele
+    note: Même législation.
+    argument: deuteronome-22-reponse
 themes:
   - morale-biblique

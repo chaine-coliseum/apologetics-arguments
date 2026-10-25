@@ -4,5 +4,10 @@ reference: Ex 4,22
 texte: "Tu diras à Pharaon: Ainsi parle l'Éternel: Israël est mon fils, mon premier-né."
 traduction: Segond 1910
 note: Voir aussi Dt 14,1 ; 32,6.18 ; Os 11,1 ; Is 1,2 ; Jr 3,14 ; 31,20 ; Ps 82,6.
+liens:
+  - passage: 2-samuel-7-14
+    type: parallele
+    note: Dieu se dit Père d’Israël et du roi davidique.
+    argument: dilemme-des-fils-de-dieu
 themes:
   - allah

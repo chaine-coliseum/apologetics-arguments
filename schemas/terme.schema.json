@@ -3,13 +3,44 @@
   "title": "Terme du glossaire",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "terme", "definition"],
+  "required": [
+    "id",
+    "terme",
+    "definition"
+  ],
   "properties": {
-    "id": { "$ref": "defs#/definitions/id" },
-    "terme": { "type": "string" },
-    "translitteration": { "type": "string" },
-    "langue": { "enum": ["arabe", "hebreu", "grec", "arameen", "syriaque", "latin", "francais"] },
-    "definition": { "type": "string" },
-    "voir_aussi": { "$ref": "defs#/definitions/ids" }
+    "id": {
+      "$ref": "defs#/definitions/id"
+    },
+    "terme": {
+      "type": "string"
+    },
+    "translitteration": {
+      "type": "string"
+    },
+    "langue": {
+      "enum": [
+        "arabe",
+        "hebreu",
+        "grec",
+        "arameen",
+        "syriaque",
+        "latin",
+        "francais"
+      ]
+    },
+    "definition": {
+      "type": "string"
+    },
+    "voir_aussi": {
+      "$ref": "defs#/definitions/ids"
+    },
+    "arguments": {
+      "$ref": "defs#/definitions/ids",
+      "description": "Arguments où le terme joue un rôle."
+    },
+    "passages": {
+      "$ref": "defs#/definitions/ids"
+    }
   }
 }

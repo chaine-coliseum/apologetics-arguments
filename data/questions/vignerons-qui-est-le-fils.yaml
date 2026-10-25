@@ -17,7 +17,9 @@ reponses_possibles:
     relance: "Alors la condition du transfert de la vigne (v. 40 : « que fera-t-il donc ») n’est pas remplie, et la parabole n’annonce pas l’islam."
     arguments:
       - parabole-vignerons-fils-tue
+    suite: dilemme-crucifixion-question
   - reponse: Le fils est Jésus, et il a été tué.
     relance: Alors tu contredis Coran 4,157.
     arguments:
       - dilemme-de-la-crucifixion
+    suite: crucifixion-quand-jesus-meurt

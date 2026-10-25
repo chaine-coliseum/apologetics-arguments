@@ -4,6 +4,14 @@ reference: Mt 21,37-43
 texte: "Enfin, il envoya vers eux son fils, en disant: Ils auront du respect pour mon fils. Mais, quand les vignerons virent le fils, ils dirent entre eux: Voici l'héritier; venez, tuons-le, et emparons-nous de son héritage. Et ils se saisirent de lui, le jetèrent hors de la vigne, et le tuèrent. Maintenant, lorsque le maître de la vigne viendra, que fera-t-il à ces vignerons? Ils lui répondirent: Il fera périr misérablement ces misérables, et il affermera la vigne à d'autres vignerons, qui lui en donneront le produit au temps de la récolte. Jésus leur dit: N'avez-vous jamais lu dans les Écritures: La pierre qu'ont rejetée ceux qui bâtissaient Est devenue la principale de l'angle; C'est du Seigneur que cela est venu, Et c'est un prodige à nos yeux? C'est pourquoi, je vous le dis, le royaume de Dieu vous sera enlevé, et sera donné à une nation qui en rendra les fruits."
 traduction: Segond 1910
 note: ὕστερον δέ (« enfin ») distingue le fils des serviteurs ; οὖν (v. 40) fait du sort des vignerons la conséquence du meurtre du fils. « Une nation » (ἔθνει), sans adjectif « grande ».
+liens:
+  - passage: marc-12-6
+    type: parallele
+    note: Parallèle synoptique.
+  - passage: actes-4-11
+    type: parallele
+    note: La pierre rejetée (Ps 118,22) appliquée à Jésus.
+    argument: parabole-vignerons-pierre-angulaire-jesus
 themes:
   - muhammad-dans-la-bible
   - crucifixion

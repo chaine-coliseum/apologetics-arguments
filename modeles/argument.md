@@ -8,6 +8,9 @@ themes: [paraclet]                   # ids de data/themes/
 repond_a: []                         # obligatoire si type = reponse
 appuie: []                           # arguments que celui-ci soutient
 voir_aussi: []
+contredit:                           # facultatif : argument du même camp incompatible avec celui-ci
+  - argument: id-d-un-autre-argument # déclaré d'un seul côté, l'export ajoute l'inverse
+    explication: Pourquoi on ne peut pas soutenir les deux.
 passages: [jean-14-26]               # ids de data/passages/
 sources:
   - id: id-de-la-source              # id de data/sources/

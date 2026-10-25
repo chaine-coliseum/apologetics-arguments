@@ -3,5 +3,10 @@ corpus: bible
 reference: Ac 9,7
 texte: Les hommes qui l'accompagnaient demeurèrent stupéfaits; ils entendaient bien la voix, mais ils ne voyaient personne.
 traduction: Segond 1910
+liens:
+  - passage: actes-22-9
+    type: tension
+    note: Contradiction alléguée ; la réponse distingue percevoir un son et comprendre un message.
+    argument: paul-contradictions-conversion
 themes:
   - bible

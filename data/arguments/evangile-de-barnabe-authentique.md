@@ -11,6 +11,9 @@ appuie:
   - muhammad-est-le-paraclet
 origine:
   - PUBLIC/L’Évangile de Barnabé.pdf
+contredit:
+  - argument: coran-sans-erreur
+    explication: "L’Évangile de Barnabé contredit le Coran : Jésus n’y est pas le Messie (contre 3,45), il compte neuf cieux au lieu de sept (17,44), Marie y enfante sans douleur (contre 19,23). Le tenir pour l’Évangile originel, c’est admettre que le Coran se trompe."
 statut: ebauche
 ---
 

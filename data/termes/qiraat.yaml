@@ -3,3 +3,7 @@ terme: Qirâʾât
 translitteration: qirâʾât
 langue: arabe
 definition: Lectures canoniques du Coran (Ḥafṣ, Warsh…), qui diffèrent par des mots, des lettres et des voyelles.
+arguments:
+  - coran-lectures-differentes
+passages:
+  - abu-dawud-1475

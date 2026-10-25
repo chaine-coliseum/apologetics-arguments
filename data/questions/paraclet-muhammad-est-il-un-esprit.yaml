@@ -17,5 +17,7 @@ reponses_possibles:
     relance: Avec la même méthode, si Jean-Baptiste est « la voix » (Jn 1,23), qui crie dans le désert ? Et quel homme la Bible appelle-t-elle « l’Esprit, le Saint » ?
     arguments:
       - reponse-paraclet-personne
+    suite: paraclet-qui-peut-dire-je-possede-muhammad
   - reponse: C’est son enseignement qui demeure en nous.
     relance: Le Paraclet est-il Muhammad ou son enseignement ? Et si l’enseignement de Dieu demeure éternellement (1 P 1,25), pourquoi dire que l’Évangile n’a pas été préservé ?
+    suite: tirmidhi-torah-injil-chez-eux

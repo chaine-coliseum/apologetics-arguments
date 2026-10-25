@@ -3,3 +3,10 @@ terme: Naskh
 translitteration: naskh
 langue: arabe
 definition: Abrogation d’un verset (ou de sa récitation, ou de sa règle) par un autre (Coran 2,106).
+arguments:
+  - abrogation-contredit-l-immutabilite
+  - coran-versets-oublies-et-perdus
+passages:
+  - coran-2-106
+  - coran-87-6-7
+  - muslim-1452a

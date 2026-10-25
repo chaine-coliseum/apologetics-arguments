@@ -3,5 +3,9 @@ corpus: coran
 reference: Coran 10,94
 texte: "Et si tu es en doute sur ce que Nous avons fait descendre vers toi, interroge alors ceux qui lisent le Livre révélé avant toi. La vérité certes t'est venue de ton Seigneur : ne sois donc point de ceux qui doutent."
 traduction: Hamidullah (Complexe Roi Fahd)
+liens:
+  - passage: coran-2-113
+    type: parallele
+    note: Juifs et chrétiens « lisent le Livre » au VIIᵉ siècle.
 themes:
   - falsification-de-la-bible

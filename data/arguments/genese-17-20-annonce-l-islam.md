@@ -8,6 +8,9 @@ themes:
   - muhammad-dans-la-bible
 appuie:
   - muhammad-prophete-de-la-lignee-biblique
+contredit:
+  - argument: kaaba-batie-par-abraham
+    explication: "Invoquer Gn 17,20 engage à accepter son contexte : Ismaël a plus de 14 ans à son départ et Abraham ne l’accompagne pas (Gn 21,14). Le récit islamique (Bukhari 3364) fait au contraire conduire par Abraham un nourrisson jusqu’à La Mecque, où tous deux bâtiront la Maison."
 passages:
   - genese-17-18-21
   - coran-7-157

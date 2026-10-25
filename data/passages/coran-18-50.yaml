@@ -3,5 +3,10 @@ corpus: coran
 reference: Coran 18,50
 texte: "Et lorsque Nous dîmes aux Anges : « Prosternez-vous devant Adam », ils se prosternèrent, excepté Iblis, qui était du nombre des djinns et qui se révolta contre le commandement de son Seigneur."
 traduction: Hamidullah (Complexe Roi Fahd)
+liens:
+  - passage: coran-38-75
+    type: tension
+    note: Iblis est « du nombre des djinns » ; l’ordre de se prosterner s’adresse aux anges.
+    argument: iblis-ange-ou-djinn
 themes:
   - allah

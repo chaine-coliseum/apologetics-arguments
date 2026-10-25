@@ -1,0 +1,12 @@
+# Site généré par MkDocs
+site/
+
+# Environnement Python
+.venv/
+__pycache__/
+
+# Éditeurs
+.obsidian/workspace*.json
+.vscode/
+.DS_Store
+Thumbs.db

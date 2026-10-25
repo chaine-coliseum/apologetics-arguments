@@ -1,0 +1,65 @@
+site_name: Arguments apologétiques
+site_description: Base de connaissances en apologétique chrétienne
+docs_dir: docs
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clair
+
+plugins:
+  - search:
+      lang: fr
+  - tags
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Accueil: index.md
+  - Méthode: methode/index.md
+  - Arguments:
+      - arguments/index.md
+      - Existence de Dieu:
+          - arguments/existence-de-dieu/index.md
+          - Argument cosmologique du kalam: arguments/existence-de-dieu/argument-cosmologique-kalam.md
+      - Jésus historique: arguments/jesus-historique/index.md
+      - Résurrection: arguments/resurrection/index.md
+      - Fiabilité de la Bible: arguments/fiabilite-de-la-bible/index.md
+  - Objections:
+      - objections/index.md
+      - Le problème du mal: objections/probleme-du-mal.md
+  - Débats:
+      - debats/index.md
+      - Pourquoi Dieu permet-il la souffrance ?: debats/pourquoi-dieu-permet-il-la-souffrance.md
+  - Sources: sources/index.md
+  - Glossaire: glossaire.md
+  - Tags: tags.md

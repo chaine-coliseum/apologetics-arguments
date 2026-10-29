@@ -1,0 +1,663 @@
+id: spiritus-dei
+nom: SPIRITUS DEI 📚
+plateforme: discord
+discord_id: "1133756903386775622"
+icone: images/serveurs/1133756903386775622.png
+langue: fr
+orientation: chretien
+description: >-
+  Serveur chrétien multiconfessionnel (catholiques, orthodoxes dont miaphysites, protestants) tourné vers l'apologétique : herméneutique et critique textuelle de la Bible, critique de l'islam, judaïsme, philosophie, logique et athéisme. Une catégorie « non-chrétien » accueille les visiteurs d'autres religions.
+regles:
+  - Respect obligatoire ; le serveur a pour but l'édification des chrétiens.
+  - Pas de disputes intra-chrétiennes dans les salons ordinaires ; elles sont réservées au salon Disputatio (membres confirmés).
+  - Les membres peu formés en Bible et en théologie sont invités à poser leurs questions plutôt qu'à débattre avec des musulmans.
+  - Politique interdite (économie, sociologie…).
+  - Messages en français.
+themes: [ christianisme, islam, bible ]
+releve_le: 2026-10-28
+statut: ebauche
+salons:
+  - nom: règles
+    type: texte
+    usage: organisation
+    discord_id: "1146502581435248660"
+  - nom: annonces
+    type: texte
+    usage: organisation
+    discord_id: "1152321935544426586"
+  - nom: utilisation-serveur
+    type: texte
+    usage: organisation
+    discord_id: "1189187142283440238"
+  - nom: général
+    type: texte
+    usage: discussion
+    discord_id: "1133756904288559197"
+    categorie: Salons textuels
+  - nom: questions
+    type: forum
+    usage: discussion
+    discord_id: "1329055438372605972"
+    categorie: Salons textuels
+  - nom: question-réponse
+    type: texte
+    usage: discussion
+    discord_id: "1134168196878958603"
+    categorie: Salons textuels
+  - nom: intentions-de-prieres
+    type: texte
+    usage: autre
+    discord_id: "1273727648782352433"
+    categorie: Salons textuels
+  - nom: administrateurs
+    type: texte
+    usage: organisation
+    discord_id: "1187480291812593878"
+    categorie: STAFF
+  - nom: modérateurs
+    type: texte
+    usage: organisation
+    discord_id: "1146502581435248661"
+    categorie: STAFF
+  - nom: base-de-données
+    type: texte
+    usage: ressources
+    discord_id: "1228396554377887744"
+    categorie: STAFF
+  - nom: Réunion
+    type: vocal
+    usage: organisation
+    discord_id: "1188971884000333894"
+    categorie: STAFF
+  - nom: jugement
+    type: texte
+    usage: organisation
+    discord_id: "1200901210299957258"
+    categorie: Tribunal
+  - nom: sanctions
+    type: texte
+    usage: organisation
+    discord_id: "1200915606438953132"
+    categorie: Tribunal
+  - nom: Plaidoirie
+    type: vocal
+    usage: organisation
+    discord_id: "1200901313538564188"
+    categorie: Tribunal
+  - nom: présentation
+    type: texte
+    usage: organisation
+    discord_id: "1146218687578259697"
+    categorie: Accueil
+  - nom: validation vocale
+    type: vocal
+    usage: organisation
+    discord_id: "1187432004975861831"
+    categorie: Accueil
+  - nom: validation vocale 2
+    type: vocal
+    usage: organisation
+    discord_id: "1276625594091569163"
+    categorie: Accueil
+  - nom: général-non-chrétien
+    type: texte
+    usage: discussion
+    discord_id: "1200574275107684494"
+    categorie: non-chrétien
+  - nom: Vocal
+    type: vocal
+    usage: discussion
+    discord_id: "1200588221130735666"
+    categorie: non-chrétien
+  - nom: 📻┊・Conférence RAP
+    type: conference
+    usage: discussion
+    discord_id: "1189695875895803944"
+    categorie: Salons vocaux
+  - nom: 🎤┊・ Général
+    type: vocal
+    usage: discussion
+    discord_id: "1133756904288559198"
+    categorie: Salons vocaux
+  - nom: 🎤┊・Logique
+    type: vocal
+    usage: discussion
+    discord_id: "1199882942743318598"
+    categorie: Salons vocaux
+  - nom: 🧠┊・ Débat
+    type: vocal
+    usage: discussion
+    discord_id: "1147263235364491264"
+    categorie: Salons vocaux
+  - nom: 🤺┊・Disputatio
+    type: vocal
+    usage: discussion
+    discord_id: "1189695296003903589"
+    categorie: Salons vocaux
+  - nom: 🎮┊・Jeux vidéo
+    type: vocal
+    usage: autre
+    discord_id: "1193154444616011816"
+    categorie: Salons vocaux
+  - nom: 👥┊・Privé
+    type: vocal
+    usage: autre
+    discord_id: "1187906428279734322"
+    categorie: Salons vocaux
+  - nom: 💻┊・Informatique
+    type: vocal
+    usage: autre
+    discord_id: "1197963905603997788"
+    categorie: Salons vocaux
+  - nom: ✝┊・Prière
+    type: vocal
+    usage: autre
+    discord_id: "1147650579426983996"
+    categorie: Salons vocaux
+  - nom: pdf-introduction
+    type: texte
+    usage: ressources
+    discord_id: "1406430299105263707"
+    categorie: Scholastique
+  - nom: exégèse-textuelle-biblique
+    type: forum
+    usage: arguments
+    discord_id: "1554737770100957244"
+    categorie: bible hermeneutique
+  - nom: discussion-hermeneutique
+    type: texte
+    usage: discussion
+    discord_id: "1190021851095760966"
+    categorie: bible hermeneutique
+  - nom: site-réfutant-les-contradictons
+    type: texte
+    usage: ressources
+    discord_id: "1190033966833614920"
+    categorie: bible hermeneutique
+    themes:
+      - contradictions-bibliques
+  - nom: livre-exégèse-biblique
+    type: forum
+    usage: ressources
+    discord_id: "1189629787350765698"
+    categorie: bible hermeneutique
+    themes:
+      - bible
+  - nom: vidéo-réfutation
+    type: forum
+    usage: ressources
+    discord_id: "1190021768782565396"
+    categorie: bible hermeneutique
+    themes:
+      - bible
+  - nom: contradictions-bibliques
+    type: forum
+    usage: arguments
+    discord_id: "1149335078409867304"
+    categorie: bible hermeneutique
+    themes:
+      - contradictions-bibliques
+  - nom: divinité-du-christ
+    type: forum
+    usage: arguments
+    discord_id: "1189628517751738502"
+    categorie: bible hermeneutique
+    themes:
+      - jesus
+  - nom: refutation-annonce-mohamed
+    type: forum
+    usage: arguments
+    discord_id: "1189628575138185307"
+    categorie: bible hermeneutique
+    themes:
+      - muhammad-dans-la-bible
+  - nom: refutation-contradiction-biblique
+    type: forum
+    usage: arguments
+    discord_id: "1189629113246416897"
+    categorie: bible hermeneutique
+    themes:
+      - contradictions-bibliques
+  - nom: refutation-argument-contre-la-crucifiction
+    type: forum
+    usage: arguments
+    discord_id: "1189629662805110814"
+    categorie: bible hermeneutique
+    themes:
+      - crucifixion
+  - nom: dilemme-islamique-herméneutique
+    type: forum
+    usage: arguments
+    discord_id: "1189629192996917290"
+    categorie: bible hermeneutique
+    themes:
+      - falsification-de-la-bible
+  - nom: réfutation-immoralité-bible
+    type: forum
+    usage: arguments
+    discord_id: "1190022156617265172"
+    categorie: bible hermeneutique
+    themes:
+      - morale-biblique
+  - nom: défense-de-la-légitimité-de-l-apôtre-paul
+    type: forum
+    usage: arguments
+    discord_id: "1219195876203823176"
+    categorie: bible hermeneutique
+    themes:
+      - paul
+  - nom: discussion-catholicisme-romain
+    type: texte
+    usage: discussion
+    discord_id: "1187793822441279648"
+    categorie: catholicisme
+  - nom: ressources
+    type: forum
+    usage: ressources
+    discord_id: "1163935328948723904"
+    categorie: catholicisme
+  - nom: chaînes-comptes-sites
+    type: forum
+    usage: ressources
+    discord_id: "1189630118524624936"
+    categorie: catholicisme
+  - nom: réfutation
+    type: forum
+    usage: arguments
+    discord_id: "1189629761643876462"
+    categorie: catholicisme
+  - nom: théologie-dogmatique
+    type: forum
+    usage: arguments
+    discord_id: "1189630927337422959"
+    categorie: catholicisme
+    themes:
+      - theologie-dogmatique
+  - nom: philosophie-médiévale
+    type: forum
+    usage: arguments
+    discord_id: "1189724978690654289"
+    categorie: catholicisme
+    themes:
+      - philosophie-medievale
+  - nom: arguments
+    type: forum
+    usage: arguments
+    discord_id: "1192830481398509609"
+    categorie: catholicisme
+  - nom: lpt
+    type: texte
+    usage: discussion
+    discord_id: "1133758212215156899"
+    categorie: catholicisme
+  - nom: livre-jean-miguel-garrigues
+    type: texte
+    usage: ressources
+    discord_id: "1241394490137378953"
+    categorie: catholicisme
+  - nom: nazisme
+    type: forum
+    usage: arguments
+    discord_id: "1341072605427535985"
+    categorie: catholicisme
+  - nom: miracle-chrétiens
+    type: forum
+    usage: arguments
+    discord_id: "1476031655549468713"
+    categorie: catholicisme
+    themes:
+      - miracles
+  - nom: discussion-orthodoxie
+    type: texte
+    usage: discussion
+    discord_id: "1187793759811940412"
+    categorie: orthodoxie
+  - nom: livre-orthodoxe
+    type: forum
+    usage: ressources
+    discord_id: "1189576738045427742"
+    categorie: orthodoxie
+  - nom: vidéo-orthodoxe
+    type: forum
+    usage: ressources
+    discord_id: "1189589984475369622"
+    categorie: orthodoxie
+  - nom: théologie-orthodoxe
+    type: forum
+    usage: arguments
+    discord_id: "1189591303281979452"
+    categorie: orthodoxie
+    themes:
+      - orthodoxie
+  - nom: réfutation-métaphysique
+    type: forum
+    usage: arguments
+    discord_id: "1189592592350982215"
+    categorie: orthodoxie
+    themes:
+      - dieu
+  - nom: arguments
+    type: forum
+    usage: arguments
+    discord_id: "1200473359260057650"
+    categorie: orthodoxie
+  - nom: ressources
+    type: forum
+    usage: ressources
+    discord_id: "1241834929357328474"
+    categorie: orthodoxie
+  - nom: ressources-critique-textuelle-et-historique
+    type: forum
+    usage: ressources
+    discord_id: "1189631628948025457"
+    categorie: bible critique textuel
+    themes:
+      - bible
+  - nom: critique-textuelle
+    type: forum
+    usage: arguments
+    discord_id: "1147262007700103178"
+    categorie: bible critique textuel
+    themes:
+      - falsification-de-la-bible
+  - nom: critique-historique
+    type: forum
+    usage: arguments
+    discord_id: "1196124581891670086"
+    categorie: bible critique textuel
+    themes:
+      - bible
+  - nom: papyrologie
+    type: forum
+    usage: arguments
+    discord_id: "1328792854637842565"
+    categorie: bible critique textuel
+    themes:
+      - falsification-de-la-bible
+  - nom: datation-nouveau-testament
+    type: forum
+    usage: arguments
+    discord_id: "1330236524658167930"
+    categorie: bible critique textuel
+    themes:
+      - bible
+  - nom: auteurs-des-évangiles
+    type: forum
+    usage: arguments
+    discord_id: "1414291108384739519"
+    categorie: bible critique textuel
+    themes:
+      - bible
+  - nom: discussion-miaphisyte
+    type: texte
+    usage: discussion
+    discord_id: "1330129763230285864"
+    categorie: Orthodoxe Miaphisyte
+  - nom: livre-miaphisyte
+    type: forum
+    usage: ressources
+    discord_id: "1329853053997940807"
+    categorie: Orthodoxe Miaphisyte
+  - nom: video-miaphisyte
+    type: forum
+    usage: ressources
+    discord_id: "1329852873202471004"
+    categorie: Orthodoxe Miaphisyte
+  - nom: théologie-miaphisyte
+    type: forum
+    usage: arguments
+    discord_id: "1329853014353121405"
+    categorie: Orthodoxe Miaphisyte
+    themes:
+      - miaphysisme
+  - nom: argument
+    type: forum
+    usage: arguments
+    discord_id: "1329852707242246246"
+    categorie: Orthodoxe Miaphisyte
+  - nom: refutation
+    type: forum
+    usage: arguments
+    discord_id: "1329571447684726895"
+    categorie: Orthodoxe Miaphisyte
+  - nom: ressource
+    type: forum
+    usage: ressources
+    discord_id: "1329852580917936199"
+    categorie: Orthodoxe Miaphisyte
+  - nom: discussion-logique
+    type: texte
+    usage: discussion
+    discord_id: "1187792630533324940"
+    categorie: logique
+    themes:
+      - methode
+  - nom: symbole-logique
+    type: texte
+    usage: arguments
+    discord_id: "1185483593154310244"
+    categorie: logique
+    themes:
+      - methode
+  - nom: livres-logique
+    type: forum
+    usage: ressources
+    discord_id: "1189631974269255830"
+    categorie: logique
+    themes:
+      - methode
+  - nom: logique
+    type: forum
+    usage: arguments
+    discord_id: "1189631839405613146"
+    categorie: logique
+    themes:
+      - methode
+  - nom: playlist
+    type: texte
+    usage: ressources
+    discord_id: "1302955627299209226"
+    categorie: Philosophie
+  - nom: ressources-logique
+    type: forum
+    usage: ressources
+    discord_id: "1241835477070254262"
+    categorie: Philosophie
+    themes:
+      - methode
+  - nom: ressources-méthaethique
+    type: forum
+    usage: ressources
+    discord_id: "1190338299882111056"
+    categorie: Philosophie
+    themes:
+      - metaethique
+  - nom: ressources-métaphysique
+    type: forum
+    usage: ressources
+    discord_id: "1241835860211794001"
+    categorie: Philosophie
+    themes:
+      - dieu
+  - nom: ressources-éthique
+    type: forum
+    usage: ressources
+    discord_id: "1241838432054018059"
+    categorie: Philosophie
+    themes:
+      - ethique
+  - nom: discussion-philosophie
+    type: texte
+    usage: discussion
+    discord_id: "1262380684564234250"
+    categorie: Philosophie
+  - nom: discussion-islam
+    type: texte
+    usage: discussion
+    discord_id: "1187793546263146577"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - islam
+  - nom: livre-sur-réfutation-islam
+    type: forum
+    usage: ressources
+    discord_id: "1190023721193324754"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - islam
+  - nom: vidéo-refutation-islam
+    type: forum
+    usage: ressources
+    discord_id: "1190023803657531463"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - islam
+  - nom: problèmes-coran
+    type: forum
+    usage: arguments
+    discord_id: "1150457299282956318"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - coran
+  - nom: critique-textuel-islam
+    type: forum
+    usage: arguments
+    discord_id: "1190024023145451651"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - coran
+  - nom: Waraqa, le véritable détenteur de l'Évangile
+    type: fil
+    usage: arguments
+    discord_id: "1335725752670359562"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - tradition-islamique
+  - nom: inimitabilité-du-coran
+    type: texte
+    usage: arguments
+    discord_id: "1142150466013237299"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - coran
+  - nom: péché-de-mohamed
+    type: texte
+    usage: arguments
+    discord_id: "1151385299650355291"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - muhammad
+  - nom: miracles
+    type: texte
+    usage: arguments
+    discord_id: "1298332862885662811"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - miracles
+  - nom: miracles
+    type: forum
+    usage: arguments
+    discord_id: "1338310639571177594"
+    categorie: islam-critique textuel et légitimité
+    themes:
+      - miracles
+  - nom: discussion-judaïsme
+    type: texte
+    usage: discussion
+    discord_id: "1187793590001348748"
+    categorie: judaisme
+  - nom: ✡-livres-sur-le-judaisme-et-le-christ
+    type: forum
+    usage: ressources
+    discord_id: "1190023499406917703"
+    categorie: judaisme
+  - nom: ✡-vidéo-sur-le-judaisme-et-le-christ
+    type: forum
+    usage: ressources
+    discord_id: "1190023578779926709"
+    categorie: judaisme
+  - nom: ✡-judaïsme
+    type: forum
+    usage: arguments
+    discord_id: "1146504944036364298"
+    categorie: judaisme
+    themes:
+      - judaisme
+  - nom: messianité-de-jésus
+    type: forum
+    usage: arguments
+    discord_id: "1180815996341198858"
+    categorie: judaisme
+    themes:
+      - jesus
+  - nom: jesus-dans-le-judaisme
+    type: forum
+    usage: arguments
+    discord_id: "1277033994067902526"
+    categorie: judaisme
+    themes:
+      - jesus
+  - nom: qumran
+    type: forum
+    usage: arguments
+    discord_id: "1337370507728916520"
+    categorie: judaisme
+    themes:
+      - qumran
+  - nom: ressources-asharisme
+    type: forum
+    usage: ressources
+    discord_id: "1190053493969522829"
+    categorie: sunnite
+    themes:
+      - aqida
+  - nom: ressources-sunnisme
+    type: forum
+    usage: ressources
+    discord_id: "1147122537600401428"
+    categorie: sunnite
+    themes:
+      - aqida
+  - nom: ressources-salafisme
+    type: forum
+    usage: ressources
+    discord_id: "1190053531776991284"
+    categorie: sunnite
+    themes:
+      - aqida
+  - nom: discussion-atheisme
+    type: texte
+    usage: discussion
+    discord_id: "1187793354549903441"
+    categorie: athéisme
+    themes: &a1
+      - existence-de-dieu
+  - nom: vidéo-théisme
+    type: forum
+    usage: ressources
+    discord_id: "1189632707932721182"
+    categorie: athéisme
+    themes: *a1
+  - nom: ressources-athéisme
+    type: forum
+    usage: ressources
+    discord_id: "1189632821694836848"
+    categorie: athéisme
+    themes: *a1
+  - nom: argument
+    type: forum
+    usage: arguments
+    discord_id: "1189754391146811513"
+    categorie: athéisme
+    themes: *a1
+  - nom: réponse
+    type: forum
+    usage: arguments
+    discord_id: "1224337962074898492"
+    categorie: athéisme
+    themes: *a1
+  - nom: gap-problem
+    type: forum
+    usage: arguments
+    discord_id: "1288609006226509864"
+    categorie: archive

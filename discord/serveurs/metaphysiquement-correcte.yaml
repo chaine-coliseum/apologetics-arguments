@@ -1,0 +1,845 @@
+id: metaphysiquement-correcte
+nom: Métaphysiquement correcte.
+plateforme: discord
+discord_id: "1026512241664741387"
+icone: images/serveurs/1026512241664741387.png
+langue: fr
+orientation: chretien
+description: >-
+  Serveur de travail apologétique centré sur la théologie islamique : attributs d'Allah, anthropomorphisme, écoles de croyance (acharisme, maturidisme, hanbalisme, salafisme), hadiths et légitimité de l'islam, avec des salons de théologie chrétienne (Trinité, Incarnation, scolastique) et de judaïsme (Maïmonide, messianité). Beaucoup de salons préparent des réponses, syllogismes et diapositives. Orientation déduite des noms de salons (à vérifier).
+themes: [ islam, allah, aqida, christianisme ]
+releve_le: 2026-10-29
+statut: ebauche
+salons:
+  - nom: general
+    type: texte
+    usage: discussion
+    discord_id: "1144012437918580900"
+    categorie: Salons textuels
+  - nom: video
+    type: texte
+    usage: ressources
+    discord_id: "1026513329134514216"
+    categorie: Salons textuels
+  - nom: livres
+    type: texte
+    usage: ressources
+    discord_id: "1026513406238400593"
+    categorie: Salons textuels
+  - nom: article
+    type: texte
+    usage: ressources
+    discord_id: "1026513435137163314"
+    categorie: Salons textuels
+  - nom: probleme-logique-de-la-trinité
+    type: texte
+    usage: arguments
+    discord_id: "1026515370716188712"
+    categorie: Salons textuels
+    themes:
+      - trinite
+  - nom: probleme-logique-de-lincarnation
+    type: texte
+    usage: arguments
+    discord_id: "1026515469789839451"
+    categorie: Salons textuels
+    themes:
+      - jesus
+  - nom: le-libre-arbitre
+    type: texte
+    usage: arguments
+    discord_id: "1026515506271895593"
+    categorie: Salons textuels
+  - nom: malikite
+    type: texte
+    usage: arguments
+    discord_id: "1027261552828629032"
+    categorie: Salons textuels
+  - nom: chafeisme
+    type: texte
+    usage: arguments
+    discord_id: "1027379857610526740"
+    categorie: Salons textuels
+  - nom: existence-de-dieu
+    type: texte
+    usage: arguments
+    discord_id: "1027696416430247946"
+    categorie: Salons textuels
+    themes:
+      - existence-de-dieu
+  - nom: parole
+    type: texte
+    usage: arguments
+    discord_id: "1027915449406603284"
+    categorie: Salons textuels
+  - nom: vision-de-allah
+    type: texte
+    usage: arguments
+    discord_id: "1028091965067243560"
+    categorie: Salons textuels
+    themes:
+      - allah
+  - nom: hypostase
+    type: texte
+    usage: arguments
+    discord_id: "1028180213865140244"
+    categorie: Salons textuels
+    themes:
+      - trinite
+  - nom: divine-simplicity
+    type: texte
+    usage: arguments
+    discord_id: "1028782481522049064"
+    categorie: Salons textuels
+  - nom: aseite
+    type: texte
+    usage: arguments
+    discord_id: "1030737482389655572"
+    categorie: Salons textuels
+  - nom: vocabulaire-theologique
+    type: texte
+    usage: ressources
+    discord_id: "1030849528045240379"
+    categorie: Salons textuels
+  - nom: aseité-orthodoxe
+    type: texte
+    usage: arguments
+    discord_id: "1030918189258915841"
+    categorie: Salons textuels
+  - nom: causalité-orthodoxe
+    type: texte
+    usage: arguments
+    discord_id: "1030919322337562704"
+    categorie: Salons textuels
+  - nom: benediction-biblique
+    type: texte
+    usage: arguments
+    discord_id: "1032243221004288040"
+    categorie: Salons textuels
+  - nom: imam-shafii
+    type: texte
+    usage: arguments
+    discord_id: "1032916260826128485"
+    categorie: Salons textuels
+  - nom: syllogisme-format-slides
+    type: texte
+    usage: arguments
+    discord_id: "1033393478073339904"
+    categorie: Salons textuels
+  - nom: rhetorique
+    type: texte
+    usage: arguments
+    discord_id: "1033746624238850048"
+    categorie: Salons textuels
+  - nom: trinite-thomiste
+    type: texte
+    usage: arguments
+    discord_id: "1034611836387082322"
+    categorie: Salons textuels
+    themes:
+      - trinite
+  - nom: critique-textuelle
+    type: texte
+    usage: arguments
+    discord_id: "1034611843303477378"
+    categorie: Salons textuels
+    themes:
+      - falsification-de-la-bible
+  - nom: terme-arabe
+    type: texte
+    usage: ressources
+    discord_id: "1040156988564324412"
+    categorie: Salons textuels
+  - nom: mariage-islam
+    type: texte
+    usage: arguments
+    discord_id: "1046337593220005898"
+    categorie: Salons textuels
+    themes:
+      - morale-islamique
+  - nom: croyance
+    type: texte
+    usage: arguments
+    discord_id: "1040497829187170374"
+    categorie: Salons textuels
+  - nom: verbe
+    type: texte
+    usage: arguments
+    discord_id: "1041500477659037766"
+    categorie: Salons textuels
+  - nom: divinité-christ
+    type: texte
+    usage: arguments
+    discord_id: "1042926104027070504"
+    categorie: Salons textuels
+    themes:
+      - jesus
+  - nom: hassan-hadith
+    type: texte
+    usage: arguments
+    discord_id: "1047584377409900564"
+    categorie: Salons textuels
+    themes:
+      - tradition-islamique
+  - nom: miracle-du-coran
+    type: texte
+    usage: arguments
+    discord_id: "1103638816830533692"
+    categorie: Salons textuels
+    themes:
+      - coran
+  - nom: pont-sirat
+    type: texte
+    usage: arguments
+    discord_id: "1106872092902817813"
+    categorie: Salons textuels
+  - nom: Général
+    type: vocal
+    usage: discussion
+    discord_id: "1103081324274794619"
+    categorie: Salons textuels
+  - nom: questions
+    type: texte
+    usage: discussion
+    discord_id: "1078772570473648268"
+    categorie: Salons vocaux
+  - nom: réponse-propre
+    type: texte
+    usage: arguments
+    discord_id: "1078773088893800560"
+    categorie: Salons vocaux
+  - nom: brouillon-réponse
+    type: texte
+    usage: arguments
+    discord_id: "1078776027100217384"
+    categorie: Salons vocaux
+  - nom: source-incarnation
+    type: texte
+    usage: ressources
+    discord_id: "1079465128388468767"
+    categorie: Salons vocaux
+    themes:
+      - jesus
+  - nom: faux-semblant
+    type: texte
+    usage: arguments
+    discord_id: "1046400188530573373"
+    categorie: secte-chretienne
+  - nom: non-consubstantiel
+    type: texte
+    usage: arguments
+    discord_id: "1063605879141838878"
+    categorie: secte-chretienne
+    themes:
+      - trinite
+  - nom: polythéisme
+    type: texte
+    usage: arguments
+    discord_id: "1063607247458021466"
+    categorie: secte-chretienne
+  - nom: débauche
+    type: texte
+    usage: arguments
+    discord_id: "1063609967107653632"
+    categorie: secte-chretienne
+  - nom: liste
+    type: texte
+    usage: ressources
+    discord_id: "1063615713090228324"
+    categorie: secte-chretienne
+  - nom: anti-talmudiste
+    type: texte
+    usage: arguments
+    discord_id: "1030279903100276737"
+    categorie: Talmudisme
+  - nom: maturidite
+    type: texte
+    usage: arguments
+    discord_id: "1028074508462080060"
+    categorie: Maturidisme
+    themes: &a1
+      - aqida
+  - nom: maturidi-contreargument
+    type: texte
+    usage: arguments
+    discord_id: "1030924624172687511"
+    categorie: Maturidisme
+    themes: *a1
+  - nom: deconstruction-maturidi-libre-arbitre
+    type: texte
+    usage: arguments
+    discord_id: "1030923997220716655"
+    categorie: Maturidisme
+    themes: *a1
+  - nom: satan-sous-forme-angeelique
+    type: texte
+    usage: arguments
+    discord_id: "1121156165288591440"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: syllogisme-slide
+    type: texte
+    usage: arguments
+    discord_id: "1121157490814492692"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: abraham-et-mohamed
+    type: texte
+    usage: arguments
+    discord_id: "1121161917914939484"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: abraham-et-lange
+    type: texte
+    usage: arguments
+    discord_id: "1121163779615510671"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: parabole-des-vignerons
+    type: texte
+    usage: arguments
+    discord_id: "1121167269150593114"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: sources
+    type: texte
+    usage: ressources
+    discord_id: "1121732494404886538"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: textes-rhétoriques
+    type: texte
+    usage: arguments
+    discord_id: "1121829188706500638"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: yhwh-nest-pas-allah
+    type: texte
+    usage: arguments
+    discord_id: "1121836654433402981"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+    themes:
+      - allah
+  - nom: mohamed-degueu
+    type: texte
+    usage: arguments
+    discord_id: "1121875424771850250"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: coran
+    type: texte
+    usage: arguments
+    discord_id: "1121879955438051419"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+    themes:
+      - coran
+  - nom: hadith
+    type: texte
+    usage: arguments
+    discord_id: "1121885123386806362"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+    themes:
+      - tradition-islamique
+  - nom: questions
+    type: texte
+    usage: discussion
+    discord_id: "1121892657644437605"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+  - nom: les-erreurs-de-mohammed
+    type: texte
+    usage: arguments
+    discord_id: "1170442903085142067"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+    themes:
+      - muhammad
+  - nom: modalisme
+    type: texte
+    usage: arguments
+    discord_id: "1176151816459780196"
+    categorie: CONTRE LA LEGITIMITE DE L'ISLAM SHAM
+    themes:
+      - trinite
+  - nom: sahih-muslim-183
+    type: texte
+    usage: arguments
+    discord_id: "1112764200436125716"
+    categorie: Résumé et Arguments  Sham
+    themes: &a2
+      - allah
+  - nom: texte-non-littéral
+    type: texte
+    usage: arguments
+    discord_id: "1112765847560274000"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: istawa
+    type: texte
+    usage: arguments
+    discord_id: "1112766308422012938"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: nouzul
+    type: texte
+    usage: arguments
+    discord_id: "1112768361777078343"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: quelques-attributs-dallah
+    type: texte
+    usage: arguments
+    discord_id: "1112774112872501308"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: la-première-création
+    type: texte
+    usage: arguments
+    discord_id: "1112776279079530657"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: la-voix-dallah
+    type: texte
+    usage: arguments
+    discord_id: "1112780282093916262"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: recitation-du-coran
+    type: texte
+    usage: arguments
+    discord_id: "1112779115544719470"
+    categorie: Résumé et Arguments  Sham
+    themes:
+      - coran
+  - nom: homme-imberbe
+    type: texte
+    usage: arguments
+    discord_id: "1112781696585179246"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: allh-est-porté
+    type: texte
+    usage: arguments
+    discord_id: "1112784330046066841"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: rejet-tafwid
+    type: texte
+    usage: arguments
+    discord_id: "1112787194764087418"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: dilemmes-slides
+    type: texte
+    usage: arguments
+    discord_id: "1112786496810913792"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: legitimité-islam
+    type: texte
+    usage: arguments
+    discord_id: "1120769910029693019"
+    categorie: Résumé et Arguments  Sham
+    themes:
+      - muhammad
+  - nom: parallèle-jésus-et-moise
+    type: texte
+    usage: arguments
+    discord_id: "1143873031958188103"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: mohmmad-a-péché
+    type: texte
+    usage: arguments
+    discord_id: "1149617328909201408"
+    categorie: Résumé et Arguments  Sham
+    themes:
+      - muhammad
+  - nom: kemitisme
+    type: texte
+    usage: arguments
+    discord_id: "1202664059367854090"
+    categorie: Résumé et Arguments  Sham
+    themes: *a2
+  - nom: determinismeoccasionalisme
+    type: texte
+    usage: arguments
+    discord_id: "1030922709770698762"
+    categorie: Ashari
+    themes: &a3
+      - aqida
+  - nom: asharite
+    type: texte
+    usage: arguments
+    discord_id: "1026565160120360980"
+    categorie: Ashari
+    themes: *a3
+  - nom: atomisme-occasionalisme
+    type: texte
+    usage: arguments
+    discord_id: "1030920853166227486"
+    categorie: Ashari
+    themes: *a3
+  - nom: analogieashari
+    type: texte
+    usage: arguments
+    discord_id: "1040086873818791987"
+    categorie: Ashari
+    themes: *a3
+  - nom: ghazali-analogy
+    type: texte
+    usage: arguments
+    discord_id: "1042863837159899216"
+    categorie: Ashari
+    themes: *a3
+  - nom: ar-razi
+    type: texte
+    usage: arguments
+    discord_id: "1042921075169824840"
+    categorie: Ashari
+    themes: *a3
+  - nom: heretique
+    type: texte
+    usage: arguments
+    discord_id: "1049352841497682030"
+    categorie: Ashari
+    themes: *a3
+  - nom: syllogisme-contre-salafisme-1
+    type: texte
+    usage: arguments
+    discord_id: "1028256452059615292"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: &a4
+      - aqida
+  - nom: istawa-trone
+    type: texte
+    usage: arguments
+    discord_id: "1027408914909765833"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: sourah-image-de-allah
+    type: texte
+    usage: arguments
+    discord_id: "1028711121961619499"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: nuzul-descente
+    type: texte
+    usage: arguments
+    discord_id: "1027410305870987285"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: attribut-salafi
+    type: texte
+    usage: arguments
+    discord_id: "1027922892903678013"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: athari
+    type: texte
+    usage: arguments
+    discord_id: "1026565118135369829"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: listes-des-compagnons
+    type: texte
+    usage: ressources
+    discord_id: "1031138770235441202"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: salafisme
+    type: texte
+    usage: arguments
+    discord_id: "1026565091887419493"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: la-main
+    type: texte
+    usage: arguments
+    discord_id: "1042963567290355803"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: tablette-preservee-et-cirzn
+    type: texte
+    usage: arguments
+    discord_id: "1042969394646634516"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: stylo
+    type: texte
+    usage: arguments
+    discord_id: "1042975118491656313"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: la-premiere-chose-créée
+    type: texte
+    usage: arguments
+    discord_id: "1045340423285117018"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: attributs-daffirmation
+    type: texte
+    usage: arguments
+    discord_id: "1045341853198864435"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: attributs-temporaires
+    type: texte
+    usage: arguments
+    discord_id: "1045341892650483793"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: ressemblance-allah-créature
+    type: texte
+    usage: arguments
+    discord_id: "1045361363943444580"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: la-parole
+    type: texte
+    usage: arguments
+    discord_id: "1049337079131291648"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: allah-assit-throne
+    type: texte
+    usage: arguments
+    discord_id: "1047578507573735485"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: face-dallah
+    type: texte
+    usage: arguments
+    discord_id: "1059044820779282495"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: comparaison
+    type: texte
+    usage: arguments
+    discord_id: "1059049716085698622"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: deux-pieds
+    type: texte
+    usage: arguments
+    discord_id: "1059052813159772210"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: livre-de-ibn-taymmiyah
+    type: texte
+    usage: ressources
+    discord_id: "1071957816027402240"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: porter-par-allah
+    type: texte
+    usage: arguments
+    discord_id: "1073225065488986142"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: reins-ceinture-pagne
+    type: texte
+    usage: arguments
+    discord_id: "1083693444800729118"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: seulement-les-paroles-de-jesus
+    type: texte
+    usage: arguments
+    discord_id: "1090253696786497617"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: uterus
+    type: texte
+    usage: arguments
+    discord_id: "1102037639890227220"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: anthropormorphsim-chez-les-premiers-muz
+    type: texte
+    usage: arguments
+    discord_id: "1102836847811506306"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: corps-dallah
+    type: texte
+    usage: arguments
+    discord_id: "1113048743953051739"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: a-etudier
+    type: texte
+    usage: discussion
+    discord_id: "1118570019912163449"
+    categorie: Contre la doctrine des Salafs/Salafis
+    themes: *a4
+  - nom: le-nom-de-dieu
+    type: texte
+    usage: arguments
+    discord_id: "1033391857629138995"
+    categorie: Yhwh nom de Deu
+    themes: &a5
+      - allah
+  - nom: differences-noms-coran-et-bible
+    type: texte
+    usage: arguments
+    discord_id: "1037646938721484810"
+    categorie: Yhwh nom de Deu
+    themes: *a5
+  - nom: el-elohim-elah-eloah
+    type: texte
+    usage: arguments
+    discord_id: "1035450503661899826"
+    categorie: Yhwh nom de Deu
+    themes: *a5
+  - nom: tafwid
+    type: texte
+    usage: arguments
+    discord_id: "1027970303722270730"
+    categorie: Hanbalisme
+    themes: &a6
+      - aqida
+  - nom: hanbalite
+    type: texte
+    usage: arguments
+    discord_id: "1027359737437757590"
+    categorie: Hanbalisme
+    themes: *a6
+  - nom: hilel-et-shammai
+    type: texte
+    usage: arguments
+    discord_id: "1048563518280040489"
+    categorie: Judaisme
+  - nom: maimonides-divine-simplicity
+    type: texte
+    usage: arguments
+    discord_id: "1049593340246638602"
+    categorie: Judaisme
+  - nom: maimonides-parole-de-dieu
+    type: texte
+    usage: arguments
+    discord_id: "1049595777497964565"
+    categorie: Judaisme
+  - nom: maimonides-critique-corporalisme
+    type: texte
+    usage: arguments
+    discord_id: "1049592307281829898"
+    categorie: Judaisme
+  - nom: maimonides-et-le-mutazilisme
+    type: texte
+    usage: arguments
+    discord_id: "1049598229064458271"
+    categorie: Judaisme
+  - nom: maimonide-le-langue-figuratif
+    type: texte
+    usage: arguments
+    discord_id: "1049604783687876608"
+    categorie: Judaisme
+  - nom: psaume-22
+    type: texte
+    usage: arguments
+    discord_id: "1051592116855382087"
+    categorie: Judaisme
+    themes:
+      - jesus
+  - nom: lignee-de-david
+    type: texte
+    usage: arguments
+    discord_id: "1055842665540886588"
+    categorie: Judaisme
+    themes:
+      - jesus
+  - nom: messie-mort
+    type: texte
+    usage: arguments
+    discord_id: "1056200860352401479"
+    categorie: Judaisme
+    themes:
+      - jesus
+  - nom: lange-dd-leternel-est-dieu
+    type: texte
+    usage: arguments
+    discord_id: "1059059833912954891"
+    categorie: Judaisme
+  - nom: le-verbe-de-dieu
+    type: texte
+    usage: arguments
+    discord_id: "1050157616371871944"
+    categorie: scolastique
+    themes:
+      - jesus
+  - nom: objection-trinité
+    type: texte
+    usage: arguments
+    discord_id: "1057099563808333996"
+    categorie: scolastique
+    themes:
+      - trinite
+  - nom: ontologie-de-lhomme
+    type: texte
+    usage: arguments
+    discord_id: "1060600535624978432"
+    categorie: scolastique
+  - nom: saint-esprit
+    type: texte
+    usage: arguments
+    discord_id: "1061102926342389871"
+    categorie: scolastique
+    themes:
+      - saint-esprit
+  - nom: personne-divine
+    type: texte
+    usage: arguments
+    discord_id: "1063886981202981014"
+    categorie: scolastique
+    themes:
+      - trinite
+  - nom: filuoque
+    type: texte
+    usage: arguments
+    discord_id: "1071962780137168968"
+    categorie: scolastique
+    themes:
+      - saint-esprit
+  - nom: defintion
+    type: texte
+    usage: ressources
+    discord_id: "1071963722060415046"
+    categorie: scolastique
+  - nom: injil-selon-le-coran
+    type: texte
+    usage: arguments
+    discord_id: "1059593425235746847"
+    categorie: Bible falsification Coran
+    themes:
+      - falsification-de-la-bible
+  - nom: universaux
+    type: texte
+    usage: arguments
+    discord_id: "1079179417173119006"
+    categorie: epistemologie
+  - nom: al-azl
+    type: texte
+    usage: arguments
+    discord_id: "1099345133566185492"
+    categorie: Hadiths
+    themes:
+      - morale-islamique
+  - nom: age-aisha
+    type: texte
+    usage: arguments
+    discord_id: "1099347722974269572"
+    categorie: Hadiths
+    themes:
+      - muhammad
+  - nom: sexualité-de-muhammad
+    type: texte
+    usage: arguments
+    discord_id: "1099394454726643812"
+    categorie: Hadiths
+    themes:
+      - muhammad
+  - nom: 7-ahruf
+    type: texte
+    usage: arguments
+    discord_id: "1099610323964674150"
+    categorie: Hadiths
+    themes:
+      - coran
+  - nom: compagnon-hypocrite
+    type: texte
+    usage: arguments
+    discord_id: "1100341649911054386"
+    categorie: Hadiths
+    themes:
+      - tradition-islamique

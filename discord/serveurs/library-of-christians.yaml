@@ -1,0 +1,573 @@
+id: library-of-christians
+nom: Library of Christians
+plateforme: discord
+discord_id: "1169748479078318121"
+icone: images/serveurs/1169748479078318121.png
+langue: en
+orientation: chretien
+description: "Serveur anglophone d'apologétique chrétienne : forums sur la Trinité, la christologie, la fiabilité de la Bible, et nombreux forums de critique de l'islam (Coran, Muhammad, aqida, hadiths, fiqh), ainsi que de l'athéisme, du judaïsme, de l'hindouisme, du sikhisme, du bouddhisme et du paganisme. Salons de débat écrits et vocaux. Description et orientation déduites des noms de salons (à vérifier)."
+themes:
+  - christianisme
+  - islam
+releve_le: 2026-10-29
+statut: ebauche
+salons:
+  - nom: ⎱🔔⎰𝐆𝐞𝐧𝐞𝐫𝐚l
+    type: texte
+    usage: discussion
+    discord_id: "1214715078075752458"
+    categorie: 💬 | 𝗧𝗘𝗫𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦
+  - nom: ⎱📷⎰𝐌𝐞𝐝𝐢𝐚
+    type: texte
+    usage: discussion
+    discord_id: "1233786353041276938"
+    categorie: 💬 | 𝗧𝗘𝗫𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦
+  - nom: ⎱🤖⎰𝐁𝐨𝐭s
+    type: texte
+    usage: autre
+    discord_id: "1170713560431743058"
+    categorie: 💬 | 𝗧𝗘𝗫𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦
+  - nom: ⎱📝⎰𝐓𝐞𝐬𝐭𝐢𝐦𝐨𝐧𝐢𝐞𝐬
+    type: texte
+    usage: discussion
+    discord_id: "1181783281054785667"
+    categorie: 💬 | 𝗧𝗘𝗫𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦
+  - nom: ⎱🙏🏻⎰𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲
+    type: texte
+    usage: autre
+    discord_id: "1256632716930060288"
+    categorie: 💬 | 𝗧𝗘𝗫𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦
+  - nom: ⎱🙏⎰𝐏𝐫𝐚𝐲𝐞𝐫-𝐑𝐨𝐨𝐦
+    type: texte
+    usage: autre
+    discord_id: "1273562163495047229"
+    categorie: 💬 | 𝗧𝗘𝗫𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟𝗦
+  - nom: 𝐒𝐭𝐚𝐠𝐞
+    type: conference
+    usage: discussion
+    discord_id: "1207812400259137546"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱🔊⎰𝐂𝐡𝐢𝐥𝐥 𝐙𝐨𝐧𝐞
+    type: vocal
+    usage: discussion
+    discord_id: "1190517353658732606"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱🔊⎰𝐆𝐞𝐧𝐞𝐫𝐚𝐥 {𝟏}
+    type: vocal
+    usage: discussion
+    discord_id: "1169832310854656010"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱🔊⎰𝐆𝐞𝐧𝐞𝐫𝐚𝐥 {𝟐}
+    type: vocal
+    usage: discussion
+    discord_id: "1190516682008035378"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱🔊⎰𝐆𝐞𝐧𝐞𝐫𝐚𝐥 {𝟑}
+    type: vocal
+    usage: discussion
+    discord_id: "1190516959062790154"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱📚⎰𝐃𝐞𝐛𝐚𝐭𝐞 {𝟏}
+    type: vocal
+    usage: discussion
+    discord_id: "1169832358598430860"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱📚⎰𝐃𝐞𝐛𝐚𝐭𝐞 {𝟐}
+    type: vocal
+    usage: discussion
+    discord_id: "1190517569069785128"
+    categorie: 🗣 | 𝗩𝗖
+  - nom: ⎱📚⎰𝐁𝐚𝐬𝐢𝐜-𝐈𝐧𝐟𝐨
+    type: texte
+    usage: organisation
+    discord_id: "1221947725847986317"
+    categorie: ¡¿ | 𝗗𝗲𝗯𝗮𝘁𝗲𝘀
+  - nom: ⎱📚⎰𝐂𝐨𝐦𝐦𝐨𝐧-𝐅𝐚𝐥𝐥𝐚𝐜𝐢𝐞𝐬
+    type: texte
+    usage: ressources
+    discord_id: "1221947833070911538"
+    categorie: ¡¿ | 𝗗𝗲𝗯𝗮𝘁𝗲𝘀
+  - nom: ⎱📚⎰𝐃𝐞𝐛𝐚𝐭𝐞-𝐂𝐡𝐚𝐭-𝟏
+    type: texte
+    usage: discussion
+    discord_id: "1170715451593076746"
+    categorie: ¡¿ | 𝗗𝗲𝗯𝗮𝘁𝗲𝘀
+  - nom: ⎱📚⎰𝐃𝐞𝐛𝐚𝐭𝐞-𝐂𝐡𝐚𝐭-𝟐
+    type: texte
+    usage: discussion
+    discord_id: "1176248559725711520"
+    categorie: ¡¿ | 𝗗𝗲𝗯𝗮𝘁𝗲𝘀
+  - nom: ⎱📚⎰𝐃𝐞𝐛𝐚𝐭𝐞-𝐂𝐡𝐚𝐭-𝟑
+    type: texte
+    usage: discussion
+    discord_id: "1176248660170920096"
+    categorie: ¡¿ | 𝗗𝗲𝗯𝗮𝘁𝗲𝘀
+  - nom: ⎱✝☦⎰𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐢𝐭𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1170006472353136730"
+    categorie: ✝☦ | 𝗖𝗛𝗥𝗜𝗦𝗧𝗜𝗔𝗡𝗜𝗧𝗬
+    themes:
+      - christianisme
+  - nom: ⎱✝☦⎰𝐓𝐡𝐞-𝐄𝐯𝐢𝐝𝐞𝐧𝐜𝐞-𝐎𝐟-𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐢𝐭𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1174767562949656699"
+    categorie: ✝☦ | 𝗖𝗛𝗥𝗜𝗦𝗧𝗜𝗔𝗡𝗜𝗧𝗬
+    themes:
+      - christianisme
+  - nom: ⎱✝☦⎰𝐓𝐡𝐞-𝐓𝐫𝐢𝐧𝐢𝐭𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1169985144015290489"
+    categorie: ✝☦ | 𝗖𝗛𝗥𝗜𝗦𝗧𝗜𝗔𝗡𝗜𝗧𝗬
+    themes:
+      - trinite
+  - nom: ⎱✝☦⎰𝐇𝐞𝐥𝐩-𝐖𝐢𝐭𝐡-𝐒𝐢𝐧𝐬
+    type: forum
+    usage: autre
+    discord_id: "1170772254905335909"
+    categorie: ✝☦ | 𝗖𝗛𝗥𝗜𝗦𝗧𝗜𝗔𝗡𝗜𝗧𝗬
+  - nom: ⎱✝☦⎰𝐒𝐞𝐥𝐟-𝐈𝐦𝐩𝐫𝐨𝐯𝐦𝐞𝐧𝐭
+    type: forum
+    usage: autre
+    discord_id: "1176321193440186489"
+    categorie: ✝☦ | 𝗖𝗛𝗥𝗜𝗦𝗧𝗜𝗔𝗡𝗜𝗧𝗬
+  - nom: ⎱✝☦⎰𝐃𝐞𝐢𝐭𝐲-𝐎𝐟-𝐂𝐡𝐫𝐢𝐬𝐭
+    type: forum
+    usage: arguments
+    discord_id: "1199718749880733759"
+    categorie: 📝 | 𝗧𝗛𝗘𝗢𝗟𝗢𝗚𝗬
+    themes:
+      - jesus
+  - nom: ⎱✝☦⎰𝐌𝐚𝐫𝐢𝐨𝐥𝐨𝐠𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1170014704157077598"
+    categorie: 📝 | 𝗧𝗛𝗘𝗢𝗟𝗢𝗚𝗬
+  - nom: ⎱✝☦⎰𝐓𝐡𝐞𝐨𝐥𝐨𝐠𝐲-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1173807477867937812"
+    categorie: 📝 | 𝗧𝗛𝗘𝗢𝗟𝗢𝗚𝗬
+  - nom: ⎱✝☦⎰𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐥𝐨𝐠𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1178043716078948493"
+    categorie: 📝 | 𝗧𝗛𝗘𝗢𝗟𝗢𝗚𝗬
+    themes:
+      - jesus
+  - nom: ⎱📖⎰𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰-𝗢𝗽𝗶𝗻𝗶𝗼𝗻𝘀
+    type: forum
+    usage: ressources
+    discord_id: "1272245519485501602"
+    categorie: 📖 | 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗢𝗽𝗶𝗻𝗶𝗼𝗻𝘀
+  - nom: ⎱✝☦⎰𝐁𝐢𝐛𝐥𝐞-𝐑𝐞𝐥𝐢𝐚𝐛𝐢𝐥𝐭𝐲-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1170798846809485422"
+    categorie: 📖 | 𝗕𝗜𝗕𝗟𝗜𝗖𝗔𝗟 𝗥𝗘𝗟𝗜𝗔𝗕𝗜𝗟𝗜𝗧𝗬
+    themes:
+      - bible
+  - nom: ⎱✝☦⎰𝐓𝐞𝐱𝐭𝐮𝐚𝐥-𝐂𝐫𝐢𝐭𝐢𝐜𝐢𝐬𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1176301570615431208"
+    categorie: 📖 | 𝗕𝗜𝗕𝗟𝗜𝗖𝗔𝗟 𝗥𝗘𝗟𝗜𝗔𝗕𝗜𝗟𝗜𝗧𝗬
+    themes:
+      - bible
+  - nom: ⎱✝☦⎰𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐢𝐭𝐲-𝐒𝐭𝐮𝐝𝐲
+    type: forum
+    usage: ressources
+    discord_id: "1219297717294202880"
+    categorie: 📖 | 𝗕𝗜𝗕𝗟𝗜𝗖𝗔𝗟 𝗥𝗘𝗟𝗜𝗔𝗕𝗜𝗟𝗜𝗧𝗬
+  - nom: ⎱✝☦⎰𝐓𝐡𝐞-𝐓𝐞𝐱𝐭-𝐨𝐟-𝐭𝐡𝐞-𝐆𝐨𝐬𝐩𝐞𝐥𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1219323419879932028"
+    categorie: 📖 | 𝗕𝗜𝗕𝗟𝗜𝗖𝗔𝗟 𝗥𝗘𝗟𝗜𝗔𝗕𝗜𝗟𝗜𝗧𝗬
+    themes:
+      - bible
+  - nom: ⎱🟢⎰𝐘𝐞𝐬𝐡𝐮𝐚-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1170804594423627807"
+    categorie: 🕊 | 𝗛𝗜𝗦𝗧𝗢𝗥𝗜𝗖𝗔𝗟 𝐘𝐄𝐒𝐇𝐔𝐀
+    themes:
+      - jesus
+  - nom: ⎱🟢⎰𝐁𝐢𝐛𝐥𝐞-𝐀𝐧𝐬𝐰𝐞𝐫𝐬-𝐂𝐡𝐚𝐧𝐧𝐞𝐥-𝐀𝐧𝐝-𝐑𝐞𝐟𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1170362827672911892"
+    categorie: 𝗕𝗜𝗕𝗟𝗘 𝗔𝗡𝗦𝗪𝗘𝗥𝗦 𝗔𝗡𝗗 𝗥𝗘𝗙𝗨𝗧𝗔𝗧𝗜𝗢𝗡𝗦
+    themes:
+      - bible
+  - nom: ⎱🟢⎰𝐏𝐚𝐮𝐥-𝐄𝐛𝐢𝐨𝐧𝐢𝐭𝐞𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1170364461618577538"
+    categorie: 𝗕𝗜𝗕𝗟𝗘 𝗔𝗡𝗦𝗪𝗘𝗥𝗦 𝗔𝗡𝗗 𝗥𝗘𝗙𝗨𝗧𝗔𝗧𝗜𝗢𝗡𝗦
+    themes:
+      - paul
+  - nom: ⎱🟢⎰𝐒𝐢𝐧𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1174707417917956237"
+    categorie: 𝗕𝗜𝗕𝗟𝗘 𝗔𝗡𝗦𝗪𝗘𝗥𝗦 𝗔𝗡𝗗 𝗥𝗘𝗙𝗨𝗧𝗔𝗧𝗜𝗢𝗡𝗦
+  - nom: ⎱⚛⎰𝐂𝐨𝐧𝐭𝐫𝐚-𝐀𝐭𝐡𝐞𝐢𝐬𝐦-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1169788478561722439"
+    categorie: ⚛ | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗔𝗧𝗛𝗘𝗜𝗦𝗠
+    themes:
+      - existence-de-dieu
+  - nom: ⎱❗⎰𝐃𝐢𝐬𝐜𝐨𝐫𝐝-𝐒𝐭𝐮𝐝𝐢𝐞𝐬
+    type: forum
+    usage: ressources
+    discord_id: "1189555162650517597"
+    categorie: ⚛ | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗔𝗧𝗛𝗘𝗜𝗦𝗠
+  - nom: ⎱🐍⎰𝐀𝐥𝐥𝐚𝐡
+    type: forum
+    usage: arguments
+    discord_id: "1170357878163505204"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - allah
+  - nom: ⎱🕋⎰𝐂𝐨𝐧𝐭𝐫𝐚-𝐈𝐬𝐥𝐚𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1170146815383978095"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🕋⎰𝐂𝐨𝐧𝐭𝐫𝐚𝐝𝐢𝐜𝐭𝐢𝐨𝐧𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1175072296986218506"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱📖⎰𝐂𝐨𝐧𝐭𝐫𝐚-𝐐𝐮𝐫𝐚𝐧
+    type: forum
+    usage: arguments
+    discord_id: "1169785925996380181"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - coran
+  - nom: ⎱📖⎰𝐃𝐢𝐬𝐨𝐫𝐭𝐢𝐨𝐧-𝐈𝐧-𝐐𝐮𝐫𝐚𝐧
+    type: forum
+    usage: arguments
+    discord_id: "1196219489071681567"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - coran
+  - nom: ⎱⚖⎰𝐃𝐨𝐜𝐭𝐫𝐢𝐧𝐞-𝐎𝐟-𝐀𝐛𝐫𝐨𝐠𝐚𝐭𝐢𝐨𝐧
+    type: forum
+    usage: arguments
+    discord_id: "1171593650430562374"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👧⎰𝐀𝐢𝐬𝐡𝐚
+    type: forum
+    usage: arguments
+    discord_id: "1170308529236742184"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👴⎰𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝
+    type: forum
+    usage: arguments
+    discord_id: "1170392071031488659"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - muhammad
+  - nom: ⎱⚔⎰𝐀𝐪𝐞𝐞𝐝𝐚𝐡-𝐂𝐫𝐞𝐞𝐝
+    type: forum
+    usage: arguments
+    discord_id: "1175096492005019740"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - aqida
+  - nom: ⎱⚔⎰𝐉𝐢𝐡𝐚𝐝
+    type: forum
+    usage: arguments
+    discord_id: "1170713934920175747"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🌲⎰𝐏𝐚𝐠𝐚𝐧𝐢𝐬𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1169805607696613376"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👴🏻👧🏼⎰𝐏𝐞𝐝𝐨𝐩𝐡𝐢𝐥𝐢𝐚
+    type: forum
+    usage: arguments
+    discord_id: "1169822624076005497"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🚩⎰𝐒𝐡𝐢𝐚𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1169971033269346495"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🏴⎰𝐒𝐮𝐧𝐧𝐢
+    type: forum
+    usage: arguments
+    discord_id: "1170124833678446792"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱❌⎰𝐃𝐞𝐛𝐮𝐧𝐤𝐢𝐧𝐠𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1190519888863842425"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱❌⎰𝐐𝐮𝐫𝐚𝐧-𝐌𝐢𝐫𝐚𝐜𝐥𝐞𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1170787840590880878"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - coran
+  - nom: ⎱❌⎰𝐃𝐞𝐛𝐮𝐧𝐤𝐢𝐧𝐠-𝐏𝐫𝐨𝐩𝐡𝐞𝐜𝐢𝐞𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1175449215468584990"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🤵⎰𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧-𝐀𝐩𝐨𝐥𝐨𝐠𝐞𝐭𝐢𝐜𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1175104966030008370"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🧕⎰𝐖𝐨𝐦𝐞𝐧-𝐈𝐧-𝐈𝐬𝐥𝐚𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1171800112759046156"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - morale-islamique
+  - nom: ⎱👳⎰𝐃𝐚𝐰𝐚𝐡-𝐃𝐞𝐜𝐞𝐩𝐭𝐢𝐨𝐧𝐬-𝐌𝐢𝐬𝐭𝐫𝐚𝐧𝐬𝐥𝐚𝐭𝐢𝐨𝐧𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1175202565206589511"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👳⎰𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐒𝐩𝐞𝐚𝐤𝐞𝐫𝐬
+    type: forum
+    usage: ressources
+    discord_id: "1175521735077023774"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱📕⎰𝐓𝐬𝐚𝐟𝐢𝐫-𝐀𝐛𝐬𝐮𝐫𝐝𝐢𝐭𝐢𝐞𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1175806751317164192"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱📕⎰𝐃𝐢𝐬𝐭𝐨𝐫𝐭𝐢𝐨𝐧-𝐈𝐧-𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐁𝐨𝐨𝐤𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1180829678894845972"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱📕⎰𝐃𝐢𝐬𝐭𝐨𝐫𝐭𝐢𝐨𝐧-𝐁𝐲-𝐒𝐮𝐧𝐧𝐢-𝐒𝐜𝐡𝐨𝐥𝐚𝐫𝐬-𝐈𝐧-𝐓𝐫𝐚𝐧𝐬𝐥𝐚𝐭𝐢𝐧𝐠-𝐓𝐞𝐱𝐭𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1195025732854878318"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👳🏿⎰𝐒𝐥𝐚𝐯𝐞𝐫𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1185261923265151108"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - morale-islamique
+  - nom: ⎱👳🏿⎰𝐑𝐚𝐜𝐢𝐬𝐦-𝐀𝐫𝐚𝐛-𝐒𝐮𝐩𝐫𝐞𝐦𝐚𝐜𝐢𝐬𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1210987887005405224"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👳⎰𝐂𝐨𝐧𝐭𝐫𝐚-𝐀𝐡𝐦𝐚𝐝𝐢𝐲𝐲𝐚
+    type: forum
+    usage: arguments
+    discord_id: "1185577243825680404"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱👑⎰𝐑𝐮𝐥𝐥𝐢𝐧𝐠
+    type: forum
+    usage: arguments
+    discord_id: "1186051899846316145"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱💰⎰𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐅𝐢𝐧𝐚𝐧𝐜𝐞
+    type: forum
+    usage: arguments
+    discord_id: "1188810871997206639"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱🧈⎰𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐆𝐨𝐥𝐝𝐞𝐧-𝐀𝐠𝐞
+    type: forum
+    usage: arguments
+    discord_id: "1186307943461830787"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱📚⎰𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐇𝐢𝐬𝐭𝐨𝐫𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1182751811178856448"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - tradition-islamique
+  - nom: ⎱📚⎰𝐅𝐚𝐭𝐰𝐚-𝐋𝐢𝐛𝐫𝐚𝐫𝐲
+    type: forum
+    usage: ressources
+    discord_id: "1178044920834039908"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - tradition-islamique
+  - nom: ⎱📚⎰𝐅𝐢𝐪𝐡-𝐈𝐬𝐥𝐚𝐦𝐢𝐜-𝐋𝐚𝐰-𝐋𝐢𝐛𝐫𝐚𝐫𝐲
+    type: forum
+    usage: ressources
+    discord_id: "1178046247962161152"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - tradition-islamique
+  - nom: ⎱☪⎰𝐈𝐫𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1193534056508436520"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☪⎰𝐏𝐥𝐚𝐠𝐢𝐚𝐫𝐢𝐬𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1191256385594339358"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☪⎰𝐇𝐞𝐚𝐯𝐞𝐧
+    type: forum
+    usage: arguments
+    discord_id: "1188807738210390016"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☪⎰𝐒𝐮𝐟𝐢𝐬𝐦
+    type: forum
+    usage: arguments
+    discord_id: "1175896111387529236"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☪⎰𝐓𝐡𝐞𝐨𝐥𝐨𝐠𝐲-𝐒𝐭𝐮𝐩𝐢𝐝𝐢𝐭𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1175897597383295126"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☪⎰𝐒𝐞𝐜𝐮𝐚𝐥-𝐄𝐭𝐧𝐢𝐜𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1176305906447814748"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☪⎰𝐌𝐢𝐬𝐨𝐠𝐲𝐧𝐲
+    type: forum
+    usage: arguments
+    discord_id: "1187536801490010164"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+      - morale-islamique
+  - nom: ⎱📜⎰𝐀𝐛𝐬𝐮𝐫𝐝-𝐑𝐮𝐥𝐞𝐬
+    type: forum
+    usage: arguments
+    discord_id: "1186502221211385876"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱❗⎰𝐃𝐢𝐬𝐜𝐨𝐫𝐝-𝐒𝐭𝐮𝐝𝐢𝐞𝐬
+    type: forum
+    usage: ressources
+    discord_id: "1188438667174350908"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱❗⎰𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+    type: forum
+    usage: ressources
+    discord_id: "1185633512980758550"
+    categorie: 🕋 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗦𝗟𝗔𝗠
+    themes:
+      - islam
+  - nom: ⎱☬⎰𝐒𝐢𝐤𝐡𝐢𝐬𝐦-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1175540894036930670"
+    categorie: ☬ | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗦𝗜𝗞𝗛𝗜𝗦𝗠
+  - nom: ⎱✡⎰𝐉𝐮𝐝𝐚𝐢𝐬𝐦-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1173763335846633585"
+    categorie: ✡ | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗝𝗨𝗗𝗔𝗜𝗦𝗠
+    themes:
+      - judaisme
+  - nom: ⎱🕉⎰𝐂𝐨𝐧𝐭𝐫𝐚-𝐇𝐢𝐧𝐝𝐮𝐬𝐦-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1170465394046283776"
+    categorie: 🕉 | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗛𝗜𝗡𝗗𝗨𝗜𝗦𝗠
+  - nom: ⎱🌲⎰𝐏𝐚𝐠𝐚𝐧𝐢𝐬𝐦-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1173782200802611230"
+    categorie: 🌲| 𝗖𝗢𝗡𝗧𝗥𝗔 𝗣𝗔𝗚𝗔𝗡𝗜𝗦𝗠
+  - nom: ⎱☸⎰𝐁𝐮𝐝𝐝𝐚𝐡𝐢𝐬𝐦-𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+    type: forum
+    usage: arguments
+    discord_id: "1173785726341627914"
+    categorie: ☸ | 𝗖𝗢𝗡𝗧𝗥𝗔 𝗕𝗨𝗗𝗗𝗛𝗜𝗦𝗠
+  - nom: daily-verse🙏
+    type: texte
+    usage: autre
+    discord_id: "1275503823074623508"
+    categorie: daily verse
